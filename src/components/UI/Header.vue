@@ -1,9 +1,7 @@
 <template>
   <div class="wrapper">
     <Container>
-      <div class="content">
-        logo
-      </div>
+      <div class="content"></div>
     </Container>
   </div>
 </template>
