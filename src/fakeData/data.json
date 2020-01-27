@@ -1,0 +1,5704 @@
+{
+  "machines": [
+    {
+      "id": "70cf32ab-1335-4ff6-a736-894d24095466",
+      "name": "Angelo98",
+      "lastKnownPosition": {
+        "latitude": 50.4249879,
+        "longitude": 30.531965
+      },
+      "sensors": [
+        {
+          "id": "2e453c21-9684-4866-af60-3c1bc6d161e2",
+          "name": "Kelly_Kessler",
+          "data": [
+            {
+              "id": "49449d0e-eb97-46c0-b65a-df88870490bd",
+              "value": 59065,
+              "timestamp": 1561439435880
+            },
+            {
+              "id": "fc991292-06dd-4d62-8b55-d6a97416b2c8",
+              "value": 25814,
+              "timestamp": 1552788735984
+            },
+            {
+              "id": "4508c4d0-cfb0-4a93-83f9-6b943d2ef7cd",
+              "value": 72998,
+              "timestamp": 1568163342180
+            },
+            {
+              "id": "a393668b-efd7-4fe1-8091-706e2b87b030",
+              "value": 71240,
+              "timestamp": 1562116534134
+            },
+            {
+              "id": "8c671832-fed1-49d9-9f5d-1c1e4121cc10",
+              "value": 92271,
+              "timestamp": 1561225815770
+            },
+            {
+              "id": "5dc34e2a-ee16-445c-ac4f-ecce8bd8b05e",
+              "value": 55993,
+              "timestamp": 1556310278837
+            },
+            {
+              "id": "327feacb-70d3-47b8-a306-c770e415cf64",
+              "value": 64751,
+              "timestamp": 1577759295769
+            },
+            {
+              "id": "92aba151-4137-41ed-818f-a45e2e7e7d53",
+              "value": 13268,
+              "timestamp": 1568366353683
+            },
+            {
+              "id": "868d551d-372f-477a-9c05-679bfc785e5b",
+              "value": 3310,
+              "timestamp": 1567180380008
+            },
+            {
+              "id": "c651530b-1e69-4d25-b1c3-8279511a939d",
+              "value": 95046,
+              "timestamp": 1565802427124
+            }
+          ]
+        },
+        {
+          "id": "559c7171-4d26-4215-9e01-2bce16becaa4",
+          "name": "Brendon8",
+          "data": [
+            {
+              "id": "b19c50bb-5eb4-4a0d-9971-d9b01576cc52",
+              "value": 12407,
+              "timestamp": 1553673964010
+            },
+            {
+              "id": "e315ea99-1c4f-43cd-bbe3-559101b87090",
+              "value": 93843,
+              "timestamp": 1561746489174
+            },
+            {
+              "id": "46d4b567-7c57-416f-a91c-3b78c8ff535d",
+              "value": 75122,
+              "timestamp": 1575631909905
+            },
+            {
+              "id": "ba8a8435-bf50-4001-8d25-69f2c27a611d",
+              "value": 8233,
+              "timestamp": 1553663917944
+            },
+            {
+              "id": "7f969273-4b3d-4ce3-99b2-e46e71aabc38",
+              "value": 65118,
+              "timestamp": 1577387766638
+            },
+            {
+              "id": "cf8f3bb1-aa28-4f7c-9977-0b895f13a07b",
+              "value": 86685,
+              "timestamp": 1549219915433
+            },
+            {
+              "id": "1d049ce5-fd93-4717-b457-5b6448e42327",
+              "value": 83683,
+              "timestamp": 1563918116380
+            },
+            {
+              "id": "f3636d6b-ac49-40ff-8aa9-91c1f0cb6010",
+              "value": 79541,
+              "timestamp": 1577684984480
+            },
+            {
+              "id": "6f419f6d-94f4-412a-90c5-5a3706055d8e",
+              "value": 5335,
+              "timestamp": 1576896359863
+            },
+            {
+              "id": "6071a2ea-b9c1-4678-b5b8-b07eecef8457",
+              "value": 79773,
+              "timestamp": 1549173777790
+            }
+          ]
+        },
+        {
+          "id": "6edc83c3-fd50-4d58-aa3c-70d2d0473bff",
+          "name": "Rahsaan.Franecki",
+          "data": [
+            {
+              "id": "06d703c5-ef4c-486a-9e8a-8c8c5d725114",
+              "value": 1525,
+              "timestamp": 1553555296343
+            },
+            {
+              "id": "8242fb92-3df9-43b5-ae81-72e2fb75ac69",
+              "value": 71722,
+              "timestamp": 1571431582759
+            },
+            {
+              "id": "b1a86a9b-3a38-4ceb-b63c-7e9d93c856ac",
+              "value": 29644,
+              "timestamp": 1564470223830
+            },
+            {
+              "id": "b3566af8-e325-4e69-be0b-7f7a000d8f48",
+              "value": 5803,
+              "timestamp": 1568420982549
+            },
+            {
+              "id": "e858f0e4-8802-46e4-9453-fe77650d1fa3",
+              "value": 41467,
+              "timestamp": 1565323736628
+            },
+            {
+              "id": "76bd27d3-d372-47e5-a34a-7b82e03dcde9",
+              "value": 72510,
+              "timestamp": 1568087599852
+            },
+            {
+              "id": "4e0f726c-b95b-4d90-854a-3dad42b54cca",
+              "value": 23552,
+              "timestamp": 1559376127985
+            },
+            {
+              "id": "6d7c8f3a-7bee-4e68-b879-40a47f62a576",
+              "value": 74874,
+              "timestamp": 1563749870376
+            },
+            {
+              "id": "73c6d648-b8e4-4cb4-b529-f6c5053a145b",
+              "value": 56681,
+              "timestamp": 1573725989348
+            },
+            {
+              "id": "e098dc3e-2a66-46d1-a74b-ede57a7cd3d7",
+              "value": 15174,
+              "timestamp": 1565538387426
+            }
+          ]
+        },
+        {
+          "id": "5abc7557-413e-4499-82b7-fc6994806b61",
+          "name": "Irwin.Morar",
+          "data": [
+            {
+              "id": "150e20bc-be08-4f82-ad88-c5f8b497f733",
+              "value": 83824,
+              "timestamp": 1557103213053
+            },
+            {
+              "id": "c5a335de-954a-42a7-9821-17c07d6ea53b",
+              "value": 33155,
+              "timestamp": 1561107275586
+            },
+            {
+              "id": "88c7e4a0-c974-41e8-ad2e-89a5ed672e9b",
+              "value": 18185,
+              "timestamp": 1556798797386
+            },
+            {
+              "id": "f271d71e-1c86-435d-8859-f84beaf46d32",
+              "value": 75227,
+              "timestamp": 1576981644523
+            },
+            {
+              "id": "2a6b430d-b22e-438b-9475-82d0395e2257",
+              "value": 70351,
+              "timestamp": 1565763845845
+            },
+            {
+              "id": "5b1033b8-4f7b-4fc0-8f1c-337e272565d6",
+              "value": 71959,
+              "timestamp": 1558758878714
+            },
+            {
+              "id": "33792925-1c01-4e06-a81d-cd85a54091ea",
+              "value": 61966,
+              "timestamp": 1573774204264
+            },
+            {
+              "id": "7d59aed8-cce4-4d00-9a8a-49dec7a3d7a2",
+              "value": 70126,
+              "timestamp": 1558242650950
+            },
+            {
+              "id": "2c4c461d-2bbd-4e94-bac4-dbfd3d383341",
+              "value": 3341,
+              "timestamp": 1576236859985
+            },
+            {
+              "id": "af123560-54aa-4f59-9226-20e26c05d20a",
+              "value": 16757,
+              "timestamp": 1549074146493
+            }
+          ]
+        },
+        {
+          "id": "311ff0c8-57c7-431c-8772-23351b5348e2",
+          "name": "Melyna_Anderson45",
+          "data": [
+            {
+              "id": "667958a8-6aae-4c1b-85bf-8278c8ffc153",
+              "value": 84199,
+              "timestamp": 1570862490171
+            },
+            {
+              "id": "496dd45c-de5f-44a5-8e42-f3d470c73195",
+              "value": 91189,
+              "timestamp": 1569345653885
+            },
+            {
+              "id": "1aed61b0-759b-49d8-b890-427c9a28488d",
+              "value": 29315,
+              "timestamp": 1565833991384
+            },
+            {
+              "id": "95440d33-befe-4d49-bbfb-04e473efa087",
+              "value": 74524,
+              "timestamp": 1564030611653
+            },
+            {
+              "id": "845a575d-bc25-4f4a-9160-f7cb78472f37",
+              "value": 54517,
+              "timestamp": 1569673491066
+            },
+            {
+              "id": "0af6b3c1-f326-495c-a6f5-e5990b105ec9",
+              "value": 13095,
+              "timestamp": 1554335959696
+            },
+            {
+              "id": "5ebd8d93-44ab-411d-8533-79f1aeaf64fc",
+              "value": 75303,
+              "timestamp": 1575855924112
+            },
+            {
+              "id": "e7737e1c-bd2e-421a-8b16-1d929190e1aa",
+              "value": 80505,
+              "timestamp": 1565440747031
+            },
+            {
+              "id": "b3e672dc-47fb-4121-ab34-ae6161ebf054",
+              "value": 18037,
+              "timestamp": 1555322522616
+            },
+            {
+              "id": "6ecbc184-4700-483e-b28a-4abaaa355e2b",
+              "value": 37085,
+              "timestamp": 1561835210441
+            }
+          ]
+        },
+        {
+          "id": "0f8577a7-f092-449c-8c23-038e028d972d",
+          "name": "Kennedy_Rau",
+          "data": [
+            {
+              "id": "b6cf5079-3c77-4e85-bc38-82c28337edb1",
+              "value": 1233,
+              "timestamp": 1563751077455
+            },
+            {
+              "id": "7a40b99c-08ea-4a5e-90ce-3d89cda31d0a",
+              "value": 88707,
+              "timestamp": 1562765170262
+            },
+            {
+              "id": "985e404b-e94e-4e64-a51a-52e16f6d40f9",
+              "value": 82546,
+              "timestamp": 1561859019626
+            },
+            {
+              "id": "071e4dbc-cec1-4805-8264-7815876ded04",
+              "value": 16654,
+              "timestamp": 1575650736719
+            },
+            {
+              "id": "c77d183b-e6df-4087-adf4-d7b94a7d2b46",
+              "value": 928,
+              "timestamp": 1562325177307
+            },
+            {
+              "id": "0026ccc5-e044-4d9f-8685-888715d26574",
+              "value": 19223,
+              "timestamp": 1559807940491
+            },
+            {
+              "id": "d7970152-3366-4f74-8551-8e3d4b27c7cf",
+              "value": 65002,
+              "timestamp": 1567514145827
+            },
+            {
+              "id": "5664b044-9cd1-4c57-b753-f727362e2fca",
+              "value": 98806,
+              "timestamp": 1564234896054
+            },
+            {
+              "id": "31dc2a66-6f51-4e74-846a-dd9193fedaa0",
+              "value": 76571,
+              "timestamp": 1551875333051
+            },
+            {
+              "id": "460a6d77-a592-446d-9620-c0687d81227b",
+              "value": 13534,
+              "timestamp": 1562291679983
+            }
+          ]
+        },
+        {
+          "id": "7e470d6d-1bdc-4f3b-b771-a17f618f851a",
+          "name": "Madilyn_Roob19",
+          "data": [
+            {
+              "id": "7d630536-8a8b-4610-835d-b010129848f5",
+              "value": 4116,
+              "timestamp": 1552580544587
+            },
+            {
+              "id": "6228ce44-d05e-45c4-a19b-4cd16368e466",
+              "value": 7952,
+              "timestamp": 1565185619621
+            },
+            {
+              "id": "ad9413ab-e1c4-4e9b-8edd-1ca9ba61e199",
+              "value": 436,
+              "timestamp": 1556888935317
+            },
+            {
+              "id": "195025ff-3727-403b-af80-59f80cf4bcfc",
+              "value": 86743,
+              "timestamp": 1560111119146
+            },
+            {
+              "id": "06e7998f-5bc1-4578-bfb1-3bc336141816",
+              "value": 37734,
+              "timestamp": 1554790667152
+            },
+            {
+              "id": "8153578f-dd8b-4ece-aad4-c1e62ffb975f",
+              "value": 51172,
+              "timestamp": 1577682331092
+            },
+            {
+              "id": "fe161dc2-6524-4af8-83d3-f78487c31c89",
+              "value": 16969,
+              "timestamp": 1578266994499
+            },
+            {
+              "id": "3361d1fe-ec0d-4b7c-8e79-47f4aebe945b",
+              "value": 68383,
+              "timestamp": 1553574643965
+            },
+            {
+              "id": "3f6aafd7-f06d-44df-961f-9d761cec636e",
+              "value": 80528,
+              "timestamp": 1570101933477
+            },
+            {
+              "id": "2422826b-522f-41c2-8e4f-c0755a053a26",
+              "value": 50797,
+              "timestamp": 1556895842098
+            }
+          ]
+        },
+        {
+          "id": "bc014568-0ec1-40dc-982e-37d96042c15d",
+          "name": "Jeramie47",
+          "data": [
+            {
+              "id": "53a6da57-89dc-49e8-92ee-5c82086fafe2",
+              "value": 57395,
+              "timestamp": 1548846785270
+            },
+            {
+              "id": "f958ca53-98fb-4806-be26-936999393aa2",
+              "value": 66779,
+              "timestamp": 1549179297274
+            },
+            {
+              "id": "a92559a1-de08-4e96-9d50-0ef6404e2ad6",
+              "value": 61270,
+              "timestamp": 1563481850740
+            },
+            {
+              "id": "7bc316f1-75bc-4424-a14a-a5af2f3b666d",
+              "value": 91853,
+              "timestamp": 1577040458627
+            },
+            {
+              "id": "60be138c-a9b7-4c52-bcdf-00a01722db09",
+              "value": 49626,
+              "timestamp": 1579361047777
+            },
+            {
+              "id": "80b1513c-abcc-4d89-ad9f-e1b38911737a",
+              "value": 95612,
+              "timestamp": 1549806648818
+            },
+            {
+              "id": "71b8754f-7660-4940-832f-7a025868e4d1",
+              "value": 24505,
+              "timestamp": 1552527284882
+            },
+            {
+              "id": "66c93bd1-1cac-4569-832f-4fba68df0d3f",
+              "value": 32023,
+              "timestamp": 1565264669014
+            },
+            {
+              "id": "64162c79-fc0a-4acb-ad34-41d2e500f3e4",
+              "value": 40800,
+              "timestamp": 1567802528921
+            },
+            {
+              "id": "2418aacd-bbbb-49f4-b026-cb4ecaae57d1",
+              "value": 2345,
+              "timestamp": 1553245485811
+            }
+          ]
+        },
+        {
+          "id": "4003538f-5430-475a-a05c-52338c66c9a7",
+          "name": "Betty30",
+          "data": [
+            {
+              "id": "5d48d2d8-a092-4397-b4fc-21f0a83b0c9e",
+              "value": 93913,
+              "timestamp": 1548838057576
+            },
+            {
+              "id": "57db53e0-0948-420c-8b28-19d88b597543",
+              "value": 62207,
+              "timestamp": 1554447708498
+            },
+            {
+              "id": "3022f417-09e1-44f0-a592-b1df67c2a1dc",
+              "value": 14991,
+              "timestamp": 1574326153037
+            },
+            {
+              "id": "61189065-ab91-4572-a034-7ce5d2ccf9c1",
+              "value": 78157,
+              "timestamp": 1576030700251
+            },
+            {
+              "id": "f47036c1-d04d-4553-8392-16dfeea73614",
+              "value": 6368,
+              "timestamp": 1560074793630
+            },
+            {
+              "id": "00a68530-2344-47ee-8000-492267f885b6",
+              "value": 36543,
+              "timestamp": 1571466322542
+            },
+            {
+              "id": "3c9c42c8-cec0-4935-957b-c7784f8ff20e",
+              "value": 67438,
+              "timestamp": 1566567782731
+            },
+            {
+              "id": "d148f4f3-724e-4786-8800-ebdebc8088ac",
+              "value": 88529,
+              "timestamp": 1567063921477
+            },
+            {
+              "id": "83548e81-915e-4752-bc7d-301f897dae09",
+              "value": 3664,
+              "timestamp": 1555893197703
+            },
+            {
+              "id": "3f1701c4-8f03-481d-8dcf-241cca275071",
+              "value": 71630,
+              "timestamp": 1548953513407
+            }
+          ]
+        },
+        {
+          "id": "54c25867-4561-4703-a866-63f0fbd61543",
+          "name": "Amir_Hauck",
+          "data": [
+            {
+              "id": "35e50d57-83d7-424f-ba4d-95848c1b2654",
+              "value": 19972,
+              "timestamp": 1573132538577
+            },
+            {
+              "id": "276791d0-be04-417b-9aec-b5974f823b58",
+              "value": 91980,
+              "timestamp": 1550144983574
+            },
+            {
+              "id": "0575fa08-21a3-4624-954f-f87a300388c6",
+              "value": 69616,
+              "timestamp": 1552463623181
+            },
+            {
+              "id": "c79d5a90-ba37-47d2-afa6-1641ce8bb578",
+              "value": 26277,
+              "timestamp": 1549367083179
+            },
+            {
+              "id": "75669067-949c-4c6d-9a9d-b71ebea7c634",
+              "value": 14817,
+              "timestamp": 1569011203329
+            },
+            {
+              "id": "679b4101-915d-4d7f-bc82-61e34364b03b",
+              "value": 93067,
+              "timestamp": 1557170840493
+            },
+            {
+              "id": "49789a24-4701-4a66-9b7d-22c3e6f20f6e",
+              "value": 41278,
+              "timestamp": 1567534621294
+            },
+            {
+              "id": "6b586397-9782-4709-8dde-46bda3c30697",
+              "value": 3700,
+              "timestamp": 1572471581834
+            },
+            {
+              "id": "76ff6659-3d9f-4d22-b594-97026d7d2180",
+              "value": 22140,
+              "timestamp": 1559944349569
+            },
+            {
+              "id": "2f403241-017d-4169-986d-a2086259dbda",
+              "value": 833,
+              "timestamp": 1560931114086
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "66662dce-245a-410d-a1ea-7c1f389427ac",
+      "name": "Vicky26",
+      "lastKnownPosition": {
+        "latitude": 50.4249879,
+        "longitude": 30.531965
+      },
+      "sensors": [
+        {
+          "id": "d0adda1c-b04b-42cb-9c86-e5d98e1bbc4c",
+          "name": "Weldon7",
+          "data": [
+            {
+              "id": "cb25dd72-8cf4-427d-a182-005982c4d891",
+              "value": 8935,
+              "timestamp": 1569666388684
+            },
+            {
+              "id": "2d48b601-50ff-4fbb-a288-3653bdb4074c",
+              "value": 39488,
+              "timestamp": 1566511354724
+            },
+            {
+              "id": "b61c37aa-a1e7-411c-8265-d9a0ce37c0ca",
+              "value": 19143,
+              "timestamp": 1567854818747
+            },
+            {
+              "id": "b77896c7-1a9b-460a-9cac-4a12a0aa5137",
+              "value": 98159,
+              "timestamp": 1561273133257
+            },
+            {
+              "id": "3ea24087-e4e6-4440-a13a-c7af8313dd9e",
+              "value": 1591,
+              "timestamp": 1549530347061
+            },
+            {
+              "id": "af731646-2261-4ea3-a2cc-16bb545722d6",
+              "value": 29434,
+              "timestamp": 1573327352840
+            },
+            {
+              "id": "fdba88a7-d7da-4044-b7da-0c3bb6ded617",
+              "value": 87109,
+              "timestamp": 1566006290943
+            },
+            {
+              "id": "0238cc44-6888-48fa-badf-a0f289c3bbff",
+              "value": 61881,
+              "timestamp": 1557245120929
+            },
+            {
+              "id": "1609a38c-5fdc-4f01-a0e4-046b3f23e73a",
+              "value": 12020,
+              "timestamp": 1577435066253
+            },
+            {
+              "id": "a5e4c885-9a56-490d-9569-e727824ce777",
+              "value": 48709,
+              "timestamp": 1567362586221
+            }
+          ]
+        },
+        {
+          "id": "0294a103-0752-4a68-b302-1c2b2fbc5e4b",
+          "name": "Maurice56",
+          "data": [
+            {
+              "id": "60423d25-c5ac-4fbe-803a-fcf70bda4e6f",
+              "value": 89936,
+              "timestamp": 1551840120183
+            },
+            {
+              "id": "a578ea69-32dd-4e72-b150-2902befdae85",
+              "value": 82271,
+              "timestamp": 1551363484101
+            },
+            {
+              "id": "db5e0e65-e3ae-4f72-a235-aed9b901e2ae",
+              "value": 92914,
+              "timestamp": 1569033240465
+            },
+            {
+              "id": "821bb37b-ea9f-4ed5-a6f4-ae12c9377197",
+              "value": 14180,
+              "timestamp": 1574638606167
+            },
+            {
+              "id": "eb32716c-6a5c-4ab7-8886-4e9eee2266b5",
+              "value": 80892,
+              "timestamp": 1561465919999
+            },
+            {
+              "id": "74f380e0-c16e-49f3-ad83-3475d0043bd5",
+              "value": 21140,
+              "timestamp": 1578207786319
+            },
+            {
+              "id": "473230e9-2256-40cc-a93c-2d3c1b64cfd0",
+              "value": 44170,
+              "timestamp": 1571393499515
+            },
+            {
+              "id": "2225471d-d612-432f-b3cb-cdd1e58f5e7e",
+              "value": 104,
+              "timestamp": 1575993349465
+            },
+            {
+              "id": "f2d8649f-ee08-47ea-96f3-2a5ef5483603",
+              "value": 69415,
+              "timestamp": 1572554697242
+            },
+            {
+              "id": "6c7d10ff-c1c3-429b-9fcb-61c4bfbe3ff0",
+              "value": 10531,
+              "timestamp": 1548748177637
+            }
+          ]
+        },
+        {
+          "id": "f774a7e0-f06e-4675-8de6-a1cd5f1a2103",
+          "name": "Monte.Lesch",
+          "data": [
+            {
+              "id": "26738e83-c25a-4474-b536-f53f1fb42634",
+              "value": 15734,
+              "timestamp": 1579999813320
+            },
+            {
+              "id": "8c594c79-8a85-4aef-8daf-6569de686a75",
+              "value": 62440,
+              "timestamp": 1577483921115
+            },
+            {
+              "id": "78d6db2d-d629-4c3b-8b33-9dcecddd948e",
+              "value": 32467,
+              "timestamp": 1576125415107
+            },
+            {
+              "id": "ba3b032b-f4f8-470f-8e67-0bc0e552e848",
+              "value": 21842,
+              "timestamp": 1578393342305
+            },
+            {
+              "id": "d5c06c95-e0f2-48f6-8abf-269992cf20a0",
+              "value": 86293,
+              "timestamp": 1577088695126
+            },
+            {
+              "id": "baf9dee9-7f27-4042-ba89-65d7108af8ff",
+              "value": 39315,
+              "timestamp": 1553377217236
+            },
+            {
+              "id": "76a27924-a8af-40e0-abee-2e23d5a75e02",
+              "value": 1570,
+              "timestamp": 1571089576034
+            },
+            {
+              "id": "a9671d75-7d9a-4b63-88d6-714cf09971cd",
+              "value": 24927,
+              "timestamp": 1559429221837
+            },
+            {
+              "id": "9554b0da-570e-46ec-a2ae-4c0cb20c0d27",
+              "value": 77325,
+              "timestamp": 1553183299492
+            },
+            {
+              "id": "c42f7b65-1c9d-4ddb-98f4-f51a2a5ea484",
+              "value": 39271,
+              "timestamp": 1560595186330
+            }
+          ]
+        },
+        {
+          "id": "26ac7adb-0bf6-440d-b51f-65e36af8df48",
+          "name": "Ara.Kohler",
+          "data": [
+            {
+              "id": "13fc950d-7029-40e3-b410-a80085d5f640",
+              "value": 56595,
+              "timestamp": 1550903045655
+            },
+            {
+              "id": "5e9f9784-b650-45f5-888b-6be499ca0dd1",
+              "value": 92937,
+              "timestamp": 1571883320830
+            },
+            {
+              "id": "e2658dbe-748b-4943-849b-191369b77cf4",
+              "value": 34855,
+              "timestamp": 1569764325316
+            },
+            {
+              "id": "2a3e6a55-3d7b-4989-823f-5948250902ba",
+              "value": 36556,
+              "timestamp": 1562600254716
+            },
+            {
+              "id": "081a5e3e-38ab-4824-a7af-9e3172b5c37f",
+              "value": 96142,
+              "timestamp": 1577812795614
+            },
+            {
+              "id": "a5d93c78-dc1e-4fa1-a764-b11c9a60359a",
+              "value": 89338,
+              "timestamp": 1565673066852
+            },
+            {
+              "id": "4c1035b2-7c18-4350-9bfc-d741b96c3b9f",
+              "value": 69860,
+              "timestamp": 1575140026473
+            },
+            {
+              "id": "b54558b7-1fe4-4f5e-a455-99e7c6bebdf6",
+              "value": 71471,
+              "timestamp": 1568133205819
+            },
+            {
+              "id": "83c56d1e-4510-4ffa-8978-0ddb0b060e4a",
+              "value": 63174,
+              "timestamp": 1568524125074
+            },
+            {
+              "id": "b2c17846-253b-494e-9013-cbacd83e09ab",
+              "value": 4186,
+              "timestamp": 1571079562173
+            }
+          ]
+        },
+        {
+          "id": "fb01de40-adff-43ba-8155-bd0a87a4ad24",
+          "name": "Michaela.Kiehn",
+          "data": [
+            {
+              "id": "1362c1e2-319f-4620-9a8c-8d528e5ac62b",
+              "value": 5671,
+              "timestamp": 1552082856115
+            },
+            {
+              "id": "65be02b9-71a4-4371-9d1a-5bb0a64599f8",
+              "value": 83954,
+              "timestamp": 1578782020931
+            },
+            {
+              "id": "edeff0dc-3546-4e0f-9fc3-8c916304ee07",
+              "value": 88794,
+              "timestamp": 1562556048165
+            },
+            {
+              "id": "92af40ae-ef23-4361-8cac-3f186de9239a",
+              "value": 25421,
+              "timestamp": 1551306174870
+            },
+            {
+              "id": "ce363a21-1704-48fd-aefc-c5544a58a820",
+              "value": 7839,
+              "timestamp": 1570758491268
+            },
+            {
+              "id": "cd32f7fd-a8ef-483c-b921-a4ae4f9cb848",
+              "value": 58232,
+              "timestamp": 1550493746376
+            },
+            {
+              "id": "12bba95c-4070-4bc6-b6fe-6c7e28c4c6e5",
+              "value": 45152,
+              "timestamp": 1568202815676
+            },
+            {
+              "id": "957b8f9b-b6fe-47bc-b884-7b7563cfdeda",
+              "value": 99291,
+              "timestamp": 1549997302826
+            },
+            {
+              "id": "85ba792a-2adb-45a4-8e17-3ba6c42bbf0c",
+              "value": 53521,
+              "timestamp": 1559744658999
+            },
+            {
+              "id": "3fd0eade-1480-48ea-bf6c-97a0604d2ec4",
+              "value": 2165,
+              "timestamp": 1570863499418
+            }
+          ]
+        },
+        {
+          "id": "b0865f48-9652-41ff-9b65-d172920ba23d",
+          "name": "Carissa46",
+          "data": [
+            {
+              "id": "3a7b01f1-426e-4af1-9ef5-70d7a73e5030",
+              "value": 34497,
+              "timestamp": 1567822246519
+            },
+            {
+              "id": "c4548896-8641-4a86-a0ed-7287c92a6ecc",
+              "value": 48972,
+              "timestamp": 1551322562473
+            },
+            {
+              "id": "54747591-bdfe-40b0-89b8-0ae51e083911",
+              "value": 87160,
+              "timestamp": 1562680374989
+            },
+            {
+              "id": "73a7b5ae-fba7-4320-80d1-d449300350b3",
+              "value": 99658,
+              "timestamp": 1571720564878
+            },
+            {
+              "id": "37fcf68d-3242-4fd0-a970-fee7fe36c028",
+              "value": 53785,
+              "timestamp": 1556187383488
+            },
+            {
+              "id": "6d40ab65-1e0a-41e4-b886-1cb789d22f24",
+              "value": 71490,
+              "timestamp": 1563006124684
+            },
+            {
+              "id": "abcebf2d-d3ff-444c-ab5f-1d9f7990e5f2",
+              "value": 617,
+              "timestamp": 1571442324136
+            },
+            {
+              "id": "d7bfcff8-5484-4849-8fbb-79977198ac56",
+              "value": 44849,
+              "timestamp": 1557722714577
+            },
+            {
+              "id": "38c75523-a262-43a9-a3ff-658d648d98f1",
+              "value": 25640,
+              "timestamp": 1568933163961
+            },
+            {
+              "id": "04edcf43-0d26-4ed8-b61e-464ed7df9a6b",
+              "value": 64630,
+              "timestamp": 1565461880070
+            }
+          ]
+        },
+        {
+          "id": "e143896b-4e0f-495c-84ed-9508b9646279",
+          "name": "Daniela_Senger",
+          "data": [
+            {
+              "id": "c30ae1f8-c01e-4df3-9d51-8dcd51d889b0",
+              "value": 11735,
+              "timestamp": 1569677347445
+            },
+            {
+              "id": "085194f2-8c86-4006-b2ff-0820cb5fa280",
+              "value": 361,
+              "timestamp": 1567871733627
+            },
+            {
+              "id": "902aac84-3646-4978-8a54-b6df6482bdb7",
+              "value": 5618,
+              "timestamp": 1549028547250
+            },
+            {
+              "id": "7c165abb-6f1a-4522-8ce7-24822e32a02b",
+              "value": 50689,
+              "timestamp": 1577235489404
+            },
+            {
+              "id": "f18d38b3-81e3-4e3c-aaf9-761531bcbce8",
+              "value": 98625,
+              "timestamp": 1554341775631
+            },
+            {
+              "id": "735d9431-ce53-4378-b4d9-e27d2a3f0358",
+              "value": 24887,
+              "timestamp": 1570681297245
+            },
+            {
+              "id": "1d8681a5-1270-46cc-9564-9e695e16aa1c",
+              "value": 74713,
+              "timestamp": 1575689021918
+            },
+            {
+              "id": "10172df8-1c4c-45fb-bae8-8722df984a44",
+              "value": 29842,
+              "timestamp": 1570028306262
+            },
+            {
+              "id": "9df273bf-091e-46b3-a128-4cda526d6dd8",
+              "value": 32177,
+              "timestamp": 1579459935009
+            },
+            {
+              "id": "791e35ce-02a4-493e-bc91-10afe9c64974",
+              "value": 93447,
+              "timestamp": 1579764044403
+            }
+          ]
+        },
+        {
+          "id": "8ef10504-edee-4817-9eda-a4482dfc036f",
+          "name": "Cameron.Feeney",
+          "data": [
+            {
+              "id": "b2a72815-9ff8-4659-a2af-abb522eaa309",
+              "value": 99382,
+              "timestamp": 1568874351988
+            },
+            {
+              "id": "9101f080-7f9d-43f1-8654-d7897590e303",
+              "value": 16620,
+              "timestamp": 1559636759406
+            },
+            {
+              "id": "66fb5162-041e-44c1-8584-49b03ca3f517",
+              "value": 99763,
+              "timestamp": 1569597288198
+            },
+            {
+              "id": "915cb57b-a092-4854-980c-5a1a898abbd1",
+              "value": 67206,
+              "timestamp": 1549126926057
+            },
+            {
+              "id": "d50226be-d649-4e5c-a282-f4f8c8144c28",
+              "value": 96201,
+              "timestamp": 1552742935983
+            },
+            {
+              "id": "b133c96a-83ad-4dc8-9206-aa823fb444bd",
+              "value": 55692,
+              "timestamp": 1578680637643
+            },
+            {
+              "id": "8a00184e-e8d6-4bbe-8628-55e5b5fe6d37",
+              "value": 65489,
+              "timestamp": 1570083769204
+            },
+            {
+              "id": "3f28ebf4-b141-4a70-8104-5403a8820956",
+              "value": 39230,
+              "timestamp": 1576462655801
+            },
+            {
+              "id": "618d4974-c7dd-4b8e-89c5-0aaf6319ab55",
+              "value": 29193,
+              "timestamp": 1571349633057
+            },
+            {
+              "id": "35a8d1a5-9850-46c3-9160-51b9abec32eb",
+              "value": 17651,
+              "timestamp": 1564145581643
+            }
+          ]
+        },
+        {
+          "id": "f0d69591-cea3-4ef2-8f64-904b0a518b19",
+          "name": "Laurianne13",
+          "data": [
+            {
+              "id": "c2d92bce-9b23-458e-b6ad-d37a816eef05",
+              "value": 9992,
+              "timestamp": 1553879162580
+            },
+            {
+              "id": "7412a647-b5d3-4f54-84bc-6b0bb63cc859",
+              "value": 73181,
+              "timestamp": 1576791942385
+            },
+            {
+              "id": "3254721c-1296-4b6a-b4d2-e334871b9ad3",
+              "value": 78978,
+              "timestamp": 1562009625235
+            },
+            {
+              "id": "91e25607-584c-4bdf-8e95-28a2674bd67e",
+              "value": 22571,
+              "timestamp": 1551880266229
+            },
+            {
+              "id": "a60e287b-a01f-49c2-9db3-2e81d53229bb",
+              "value": 8201,
+              "timestamp": 1550103866143
+            },
+            {
+              "id": "7e3cde98-478c-4271-af19-a37922039e80",
+              "value": 82808,
+              "timestamp": 1577712477745
+            },
+            {
+              "id": "473e7f66-787c-4ecd-8649-15e3a06b0290",
+              "value": 29919,
+              "timestamp": 1556944997607
+            },
+            {
+              "id": "d8d0e1ad-3300-4b2c-b300-21c010c0bfad",
+              "value": 93653,
+              "timestamp": 1569169736535
+            },
+            {
+              "id": "63a60533-292d-4fa1-921b-fbdac4e2de96",
+              "value": 89036,
+              "timestamp": 1560024028799
+            },
+            {
+              "id": "8cfb2639-8357-4982-81fa-416ceb97473a",
+              "value": 92255,
+              "timestamp": 1562040484814
+            }
+          ]
+        },
+        {
+          "id": "012316b3-cf07-4fdc-bbdc-84659aab3354",
+          "name": "Lavern41",
+          "data": [
+            {
+              "id": "437d70f8-fa28-43dc-8f6d-8a5b5c464556",
+              "value": 1561,
+              "timestamp": 1550580910780
+            },
+            {
+              "id": "a386272a-ac24-4a3e-af39-39289014f72b",
+              "value": 34272,
+              "timestamp": 1554807479770
+            },
+            {
+              "id": "a1b1bb10-183f-4707-8d5e-908fd1842e5c",
+              "value": 30320,
+              "timestamp": 1576744410908
+            },
+            {
+              "id": "2becec37-2626-4e02-a447-234df6439531",
+              "value": 85527,
+              "timestamp": 1575789710500
+            },
+            {
+              "id": "503d26d3-f956-4517-9743-646e2f83c66f",
+              "value": 43918,
+              "timestamp": 1560135239434
+            },
+            {
+              "id": "d7a75160-4ad2-4c67-8ed9-59a7e5f4df76",
+              "value": 61591,
+              "timestamp": 1554668458087
+            },
+            {
+              "id": "4cf411d1-c4c9-48f0-9a9d-5ab937bc576d",
+              "value": 91510,
+              "timestamp": 1554075590412
+            },
+            {
+              "id": "120631a8-bfa9-4198-8e78-d4e3821510c9",
+              "value": 36964,
+              "timestamp": 1563858740319
+            },
+            {
+              "id": "c339b4d7-64bc-497b-bf0b-1b56798e40c8",
+              "value": 36576,
+              "timestamp": 1553139510351
+            },
+            {
+              "id": "411e270e-248f-4b2c-ac77-946dd08fef3b",
+              "value": 16871,
+              "timestamp": 1560846054333
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2f9d354-405b-456f-8b86-85802c1851ab",
+      "name": "Nelson.Nolan40",
+      "lastKnownPosition": {
+        "latitude": 50.4249879,
+        "longitude": 30.531965
+      },
+      "sensors": [
+        {
+          "id": "15a9fc06-934c-4532-9768-c7bbff7009a6",
+          "name": "Jarret.Ankunding",
+          "data": [
+            {
+              "id": "25ffb300-33c0-4245-b917-4a257f192a32",
+              "value": 91848,
+              "timestamp": 1568112648930
+            },
+            {
+              "id": "22747efd-be98-4dad-8707-e9aa6e5cf249",
+              "value": 46091,
+              "timestamp": 1558276168717
+            },
+            {
+              "id": "7a836bec-d3f9-4f8b-aee1-ff9ae25fea96",
+              "value": 81990,
+              "timestamp": 1575865671880
+            },
+            {
+              "id": "fb02d91d-bf10-4f6d-b88f-27c375a2d87f",
+              "value": 5334,
+              "timestamp": 1572840951753
+            },
+            {
+              "id": "0860b273-540c-46a9-b27f-2d8b272f3091",
+              "value": 85402,
+              "timestamp": 1554794189122
+            },
+            {
+              "id": "ab91947b-2859-42c2-b2b9-769b0915abfc",
+              "value": 24468,
+              "timestamp": 1571281463354
+            },
+            {
+              "id": "421cf10a-5ed7-449e-95eb-c0d27f2b7798",
+              "value": 24691,
+              "timestamp": 1562897646579
+            },
+            {
+              "id": "4f6b9c74-0a88-4f0b-9a94-bfc15f973635",
+              "value": 26735,
+              "timestamp": 1554340350855
+            },
+            {
+              "id": "faf0b6fb-bc9e-456f-a280-9757079d9b88",
+              "value": 86854,
+              "timestamp": 1553040761054
+            },
+            {
+              "id": "86320a07-09bc-4acf-8aca-44d67296d862",
+              "value": 38301,
+              "timestamp": 1552908008246
+            }
+          ]
+        },
+        {
+          "id": "80ce0f96-7a48-4e32-8d92-0b4442a9b978",
+          "name": "Neha90",
+          "data": [
+            {
+              "id": "11f98da5-37df-4bf7-a284-0a121e4514dd",
+              "value": 32566,
+              "timestamp": 1558943974566
+            },
+            {
+              "id": "b486dbee-33fa-4ca9-9088-c2f977784b0e",
+              "value": 98714,
+              "timestamp": 1566926454296
+            },
+            {
+              "id": "9b9ec3f0-0dd3-498e-aec7-388b1544fd8c",
+              "value": 60137,
+              "timestamp": 1573498148488
+            },
+            {
+              "id": "c69a8a94-20cb-44be-876a-3fa9ffed0795",
+              "value": 34487,
+              "timestamp": 1559530820678
+            },
+            {
+              "id": "5d30b3e0-2c43-485b-8957-23162ba41b74",
+              "value": 47704,
+              "timestamp": 1569929058371
+            },
+            {
+              "id": "42972350-0c92-4975-9150-5f609d255cb5",
+              "value": 60794,
+              "timestamp": 1549865453441
+            },
+            {
+              "id": "808e3ffd-5a74-40a8-bd99-ce6e4e16c42a",
+              "value": 7718,
+              "timestamp": 1551174473385
+            },
+            {
+              "id": "159a6c04-109b-4d37-b38a-fc87365aee78",
+              "value": 66775,
+              "timestamp": 1573909630327
+            },
+            {
+              "id": "43ce9e0c-802c-45f2-a815-1c42a59fadc4",
+              "value": 53259,
+              "timestamp": 1573091845438
+            },
+            {
+              "id": "19a0c6bd-2159-4dbd-a896-02fc23751891",
+              "value": 12423,
+              "timestamp": 1554947686381
+            }
+          ]
+        },
+        {
+          "id": "042676cf-9ea8-40c8-9fcc-7337c26863ca",
+          "name": "Lucinda.Fadel47",
+          "data": [
+            {
+              "id": "11f9eef5-adcc-4337-ad1f-102b87eb15f7",
+              "value": 35951,
+              "timestamp": 1549628401434
+            },
+            {
+              "id": "545eadee-13fa-4120-b402-8c39d283e65b",
+              "value": 88940,
+              "timestamp": 1561508914515
+            },
+            {
+              "id": "d411416f-a434-4d56-a0a7-506bed2d2f36",
+              "value": 81428,
+              "timestamp": 1561947283467
+            },
+            {
+              "id": "502a666a-07c9-496c-b13a-c9c121bb0914",
+              "value": 55362,
+              "timestamp": 1575260430949
+            },
+            {
+              "id": "78c24462-7190-4ce4-9883-a6fc079a87e5",
+              "value": 75459,
+              "timestamp": 1572828437389
+            },
+            {
+              "id": "ae6c0a0a-f80a-4822-8c0b-15903ee07008",
+              "value": 90842,
+              "timestamp": 1577020749242
+            },
+            {
+              "id": "04bf831f-1f59-4c9c-8b38-7f6b5391d468",
+              "value": 83007,
+              "timestamp": 1567718150272
+            },
+            {
+              "id": "4b057398-682e-41ca-ab11-9d33f1fe8712",
+              "value": 460,
+              "timestamp": 1558303333785
+            },
+            {
+              "id": "f481c153-d917-4780-9b60-25f9f09cf094",
+              "value": 37721,
+              "timestamp": 1555482412429
+            },
+            {
+              "id": "54136123-7b92-4d12-a845-0396207a5bd7",
+              "value": 99479,
+              "timestamp": 1551339086011
+            }
+          ]
+        },
+        {
+          "id": "197a0f7a-cae6-45af-bf7d-836d35114b30",
+          "name": "Junior_Brown75",
+          "data": [
+            {
+              "id": "571adf20-90be-45a8-9091-2c242127e713",
+              "value": 34386,
+              "timestamp": 1560633331688
+            },
+            {
+              "id": "03d013d5-166b-4c8e-be3d-ac2230e3eb39",
+              "value": 47362,
+              "timestamp": 1579192122322
+            },
+            {
+              "id": "0b97b85a-718b-4230-b4ca-ff6a215bc30a",
+              "value": 16426,
+              "timestamp": 1572279826636
+            },
+            {
+              "id": "1a432000-7967-4e15-84f4-c33739a338ea",
+              "value": 74122,
+              "timestamp": 1573887695481
+            },
+            {
+              "id": "fd0a8ee0-79ea-4eb5-a1f6-06a5ac33ccb5",
+              "value": 31595,
+              "timestamp": 1575724938363
+            },
+            {
+              "id": "19261504-fce2-42b4-a3e1-e488d6f165af",
+              "value": 61859,
+              "timestamp": 1556527964042
+            },
+            {
+              "id": "45eb2d45-110c-4f0a-87f1-616d539d6b71",
+              "value": 27516,
+              "timestamp": 1568350619064
+            },
+            {
+              "id": "4838f59f-8cb8-4cc7-b72a-cc6cbae9ac89",
+              "value": 2296,
+              "timestamp": 1560133916236
+            },
+            {
+              "id": "29105bb0-9549-4e39-bbbc-63322948f390",
+              "value": 92169,
+              "timestamp": 1554750608200
+            },
+            {
+              "id": "1dbc7a60-f4fd-4bc8-a7d8-1047a67921f3",
+              "value": 28947,
+              "timestamp": 1550028671042
+            }
+          ]
+        },
+        {
+          "id": "20f27e13-997d-4de4-b8c1-18dc6301b03d",
+          "name": "Mathew.Tremblay",
+          "data": [
+            {
+              "id": "94c65ea1-2bb9-44bf-9554-05a5ebe1a8d3",
+              "value": 14824,
+              "timestamp": 1562816819120
+            },
+            {
+              "id": "06858d9b-fe88-4b4e-86d1-4500814bd1b6",
+              "value": 309,
+              "timestamp": 1550826557262
+            },
+            {
+              "id": "f8c3bd78-84c9-4c67-8698-9e69fcfa3994",
+              "value": 45718,
+              "timestamp": 1569356204263
+            },
+            {
+              "id": "fb8ac617-b103-4ca1-9967-3fbef5f28d54",
+              "value": 88554,
+              "timestamp": 1576068759829
+            },
+            {
+              "id": "fb37722f-98ec-4620-9965-301e9ea8c2f6",
+              "value": 71490,
+              "timestamp": 1563041657379
+            },
+            {
+              "id": "5993e609-dcf4-4f0c-8ff3-38ea8adcfa4c",
+              "value": 70734,
+              "timestamp": 1567523755866
+            },
+            {
+              "id": "3dc0f2c6-9834-4dbc-93da-9cd2ebcd815a",
+              "value": 47914,
+              "timestamp": 1562618967232
+            },
+            {
+              "id": "f19db884-3aed-4737-a4a8-55769de64955",
+              "value": 4377,
+              "timestamp": 1564277080597
+            },
+            {
+              "id": "be171cb2-027e-48c0-921a-1935ff906195",
+              "value": 58023,
+              "timestamp": 1556631159017
+            },
+            {
+              "id": "a33cbf25-e903-4efb-aebc-41de62a4c910",
+              "value": 3143,
+              "timestamp": 1556405314271
+            }
+          ]
+        },
+        {
+          "id": "abf88e38-9d11-477d-9a1b-f804e21d4df2",
+          "name": "Luther.Ernser19",
+          "data": [
+            {
+              "id": "db0f6466-90bb-4e58-b9d0-3828dea542c6",
+              "value": 33684,
+              "timestamp": 1563980736533
+            },
+            {
+              "id": "502a03c7-1c60-4f1c-8bf4-ce1ffcf728be",
+              "value": 37909,
+              "timestamp": 1570434603451
+            },
+            {
+              "id": "ff6a3acf-659d-46f4-8c0f-60c9ecc26e3b",
+              "value": 91824,
+              "timestamp": 1554836442384
+            },
+            {
+              "id": "419451f4-898c-4143-ac7c-c200bf31949b",
+              "value": 44158,
+              "timestamp": 1552694041071
+            },
+            {
+              "id": "8e2dd629-9340-4d9a-9fb0-581f779668a7",
+              "value": 39897,
+              "timestamp": 1573347032120
+            },
+            {
+              "id": "d08ab0de-da9b-4b1c-9e40-04e7daedb396",
+              "value": 9708,
+              "timestamp": 1553765413132
+            },
+            {
+              "id": "9d8f04c1-ce86-4036-9cf9-08e7fa484b2c",
+              "value": 45033,
+              "timestamp": 1561300142249
+            },
+            {
+              "id": "6ee939ad-b8f1-4f05-91e2-bacf97ebfeea",
+              "value": 30071,
+              "timestamp": 1555514305166
+            },
+            {
+              "id": "4c119a7e-1a50-4a13-b85e-806ff0b687d3",
+              "value": 43547,
+              "timestamp": 1548640659649
+            },
+            {
+              "id": "7a63cf82-38c5-4bc7-9296-9eb6a0cad91a",
+              "value": 48899,
+              "timestamp": 1562463573321
+            }
+          ]
+        },
+        {
+          "id": "95f4822d-abe9-4367-aa1a-6ed68675be63",
+          "name": "Fanny.Weissnat",
+          "data": [
+            {
+              "id": "e2d89b91-a8a5-4ef5-9489-6ff9213002f4",
+              "value": 95542,
+              "timestamp": 1552687461877
+            },
+            {
+              "id": "82749c4f-5737-4b04-82ba-45776c3fdd5f",
+              "value": 45486,
+              "timestamp": 1549240400043
+            },
+            {
+              "id": "eed1f9c2-d2a0-43f4-9a60-d97a03f5ff60",
+              "value": 92552,
+              "timestamp": 1562138165033
+            },
+            {
+              "id": "f4da6386-f39f-4410-aaf9-c45f2b6061d1",
+              "value": 57642,
+              "timestamp": 1555922079641
+            },
+            {
+              "id": "44ea69e1-2df1-42ca-ac43-2a89e853b893",
+              "value": 82869,
+              "timestamp": 1576283814938
+            },
+            {
+              "id": "c3ef8e22-d2c5-4ce1-b01f-f5445bc07f68",
+              "value": 81632,
+              "timestamp": 1561803321778
+            },
+            {
+              "id": "e314e58c-f66c-4220-afbb-b14bc885169d",
+              "value": 7315,
+              "timestamp": 1579755550586
+            },
+            {
+              "id": "39954a35-4e6c-4928-b62e-1ed5c3fea35b",
+              "value": 7474,
+              "timestamp": 1577267423995
+            },
+            {
+              "id": "f8f4208c-b44b-484b-9b73-ed4e62f29415",
+              "value": 83717,
+              "timestamp": 1570190227907
+            },
+            {
+              "id": "0ed8061a-d39d-43ca-a002-235017891d00",
+              "value": 63460,
+              "timestamp": 1574073658253
+            }
+          ]
+        },
+        {
+          "id": "96225bbe-0b88-4943-905d-8b2d5832de59",
+          "name": "Rebekah_Cruickshank",
+          "data": [
+            {
+              "id": "60dfb9bd-ea27-4ab5-bdc2-5235dda0260a",
+              "value": 63914,
+              "timestamp": 1576745478671
+            },
+            {
+              "id": "3c3869a2-40a2-4d21-82d3-c32c2988aaae",
+              "value": 26905,
+              "timestamp": 1565347992208
+            },
+            {
+              "id": "5b3f7c21-9164-4967-9d07-ee9ba9f13ce0",
+              "value": 909,
+              "timestamp": 1561028195266
+            },
+            {
+              "id": "6dacb29e-d3f4-4a3c-8479-52509794b56a",
+              "value": 51610,
+              "timestamp": 1571621089466
+            },
+            {
+              "id": "d67618a0-7281-4075-9cb6-a515d4efd63e",
+              "value": 74042,
+              "timestamp": 1554985525759
+            },
+            {
+              "id": "37fbd5ef-caaf-42c2-9f7c-a33f615e7216",
+              "value": 9946,
+              "timestamp": 1564742480902
+            },
+            {
+              "id": "328c3e18-e4c8-47ca-82df-d0b875312ff2",
+              "value": 34802,
+              "timestamp": 1565574771690
+            },
+            {
+              "id": "13c864d0-ce9e-4021-8ec3-227d742302eb",
+              "value": 50591,
+              "timestamp": 1568163519413
+            },
+            {
+              "id": "63c45d26-b636-4d31-8c30-663ae4179156",
+              "value": 80194,
+              "timestamp": 1575821549777
+            },
+            {
+              "id": "3e313dba-abe1-4061-b02e-d004cb951c74",
+              "value": 4138,
+              "timestamp": 1566216334020
+            }
+          ]
+        },
+        {
+          "id": "efe5949b-aca1-4391-a906-96c4744440d8",
+          "name": "Bennett.Wisozk11",
+          "data": [
+            {
+              "id": "07e9f339-9ba4-43b9-8af8-7c3112316a1a",
+              "value": 15213,
+              "timestamp": 1570125632909
+            },
+            {
+              "id": "04d02eb7-5960-46fc-a9dd-dab7b4ce5c58",
+              "value": 26977,
+              "timestamp": 1574146581919
+            },
+            {
+              "id": "6b84a9fe-b098-49fa-8e8c-401255dc87c6",
+              "value": 51309,
+              "timestamp": 1553738363315
+            },
+            {
+              "id": "82e7e598-8aeb-44b7-8b89-de85155b8b6d",
+              "value": 83081,
+              "timestamp": 1554061431893
+            },
+            {
+              "id": "0dd2b842-3d3b-4019-a837-153e47d8ad2e",
+              "value": 54231,
+              "timestamp": 1559949110235
+            },
+            {
+              "id": "ed18fee0-0c78-4ca8-8956-9adae54160cb",
+              "value": 94013,
+              "timestamp": 1548858130015
+            },
+            {
+              "id": "a66e0915-4d7f-4d21-ba54-3f1e3c4f63a6",
+              "value": 39283,
+              "timestamp": 1567638375441
+            },
+            {
+              "id": "0b55f758-096d-4b81-a1bf-a6e2bec0e4c3",
+              "value": 98739,
+              "timestamp": 1564720502941
+            },
+            {
+              "id": "49f890fa-72e8-4cfd-b759-789575438a03",
+              "value": 47196,
+              "timestamp": 1568592610661
+            },
+            {
+              "id": "72c4ea6f-06ea-4a9a-80a0-8ad34099325a",
+              "value": 85375,
+              "timestamp": 1559338627841
+            }
+          ]
+        },
+        {
+          "id": "bae4e8a2-7a9c-4952-8a57-c66b1a88a672",
+          "name": "Madilyn_Cassin",
+          "data": [
+            {
+              "id": "414b32a4-bea8-443d-b13a-2c74d66627dd",
+              "value": 57769,
+              "timestamp": 1569832616274
+            },
+            {
+              "id": "89270275-6c86-4131-bfa2-d41a93f7f2b7",
+              "value": 64160,
+              "timestamp": 1576661505150
+            },
+            {
+              "id": "c4685055-c8a1-4578-aa29-85da0d1e2ada",
+              "value": 26976,
+              "timestamp": 1565783659596
+            },
+            {
+              "id": "837fe227-7fa1-4346-9b9c-8cf39019ea8a",
+              "value": 37846,
+              "timestamp": 1553113328617
+            },
+            {
+              "id": "e6334ef5-5aa1-45b0-82a5-f2039868bda7",
+              "value": 88899,
+              "timestamp": 1565713384835
+            },
+            {
+              "id": "4320d27d-f84e-4cf3-adda-20ef5fc1bdf0",
+              "value": 76869,
+              "timestamp": 1555086125151
+            },
+            {
+              "id": "7803043a-f017-43d7-8121-091539129221",
+              "value": 61260,
+              "timestamp": 1579607222783
+            },
+            {
+              "id": "074d554f-c5cd-422c-bf8e-416902fe63d2",
+              "value": 56309,
+              "timestamp": 1552828046775
+            },
+            {
+              "id": "b9dd5219-b599-44ff-8326-8772f07bde75",
+              "value": 62014,
+              "timestamp": 1571859988058
+            },
+            {
+              "id": "b212c1a7-eb7b-49e7-a934-fe72de934bb4",
+              "value": 77442,
+              "timestamp": 1565859455261
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c33d1354-c451-42ef-a353-87d3ae4dee61",
+      "name": "Jonas_Hessel",
+      "lastKnownPosition": {
+        "latitude": 50.4249879,
+        "longitude": 30.531965
+      },
+      "sensors": [
+        {
+          "id": "6d9c09a5-530d-4226-8e06-52da22fea28e",
+          "name": "Sydnie.Mueller21",
+          "data": [
+            {
+              "id": "50c6f5e2-7ce8-48be-8708-649ef8f8b4af",
+              "value": 78834,
+              "timestamp": 1565444321007
+            },
+            {
+              "id": "107ca3dc-db33-477e-83b8-5c17a5150f8c",
+              "value": 93444,
+              "timestamp": 1571743917525
+            },
+            {
+              "id": "8131c05c-33d6-46aa-8b66-336da4dfd050",
+              "value": 99160,
+              "timestamp": 1552506983720
+            },
+            {
+              "id": "5b6855d1-80d2-4ada-9aab-242422081540",
+              "value": 15816,
+              "timestamp": 1557014762375
+            },
+            {
+              "id": "ed2f63f6-6c8e-437d-b6b8-c54494db7637",
+              "value": 8980,
+              "timestamp": 1565411577513
+            },
+            {
+              "id": "6d07bc36-5542-4e0d-b9d2-212b1ff2c601",
+              "value": 66204,
+              "timestamp": 1552127741434
+            },
+            {
+              "id": "459ad06e-f320-4e95-a4e0-ae2ea0da7bdf",
+              "value": 3850,
+              "timestamp": 1570832385779
+            },
+            {
+              "id": "1e1dc26b-2237-4cf9-ba44-da6ebcee57cd",
+              "value": 96625,
+              "timestamp": 1561216349061
+            },
+            {
+              "id": "a2ea80b9-7486-4a40-b51a-af4060e2bc96",
+              "value": 60777,
+              "timestamp": 1575126879775
+            },
+            {
+              "id": "6982027d-c9b7-4ffd-8448-48a85c531d66",
+              "value": 80213,
+              "timestamp": 1562242219389
+            }
+          ]
+        },
+        {
+          "id": "4674309c-3577-460e-a1cb-eae795f0a45a",
+          "name": "Joesph8",
+          "data": [
+            {
+              "id": "3fe41a41-49fb-4b5a-b4c8-a112460e10ae",
+              "value": 23924,
+              "timestamp": 1571004677784
+            },
+            {
+              "id": "1f0bcef6-61f5-4c20-a403-8e05d3303468",
+              "value": 15464,
+              "timestamp": 1572753590237
+            },
+            {
+              "id": "94f8e83f-6603-4c3a-9c74-65e346ff2cc3",
+              "value": 2395,
+              "timestamp": 1561254351786
+            },
+            {
+              "id": "9aea4f9d-ae7c-47fe-a3f1-d70621028605",
+              "value": 19764,
+              "timestamp": 1579233807786
+            },
+            {
+              "id": "1fd2be62-a914-4078-81bc-5f5d6d19dbf0",
+              "value": 43909,
+              "timestamp": 1563630287953
+            },
+            {
+              "id": "b8588ea2-672c-4c2c-86b1-12040cd413b5",
+              "value": 72131,
+              "timestamp": 1575011439445
+            },
+            {
+              "id": "f5b5d651-823f-45ee-a93a-ebf423f60b0e",
+              "value": 9533,
+              "timestamp": 1557654057173
+            },
+            {
+              "id": "8172fd44-7414-4a95-bb51-25ad33f86aed",
+              "value": 24765,
+              "timestamp": 1563809421978
+            },
+            {
+              "id": "33dc298c-7393-40b2-8d37-df9d131958b3",
+              "value": 3245,
+              "timestamp": 1575958363823
+            },
+            {
+              "id": "417cfa8c-df1e-46bc-8adf-f5ab4e69ca43",
+              "value": 1568,
+              "timestamp": 1557555562926
+            }
+          ]
+        },
+        {
+          "id": "10dfd741-306d-4c43-8ea6-f377ce50f3b3",
+          "name": "Kayleigh.Lebsack8",
+          "data": [
+            {
+              "id": "c0ad3515-a639-424a-a5a6-94f50e861b0d",
+              "value": 36072,
+              "timestamp": 1567655992187
+            },
+            {
+              "id": "c6ab694a-fe88-465a-aedc-8af0e14d6944",
+              "value": 43409,
+              "timestamp": 1553042172355
+            },
+            {
+              "id": "f3e85196-44af-4d2d-9ef5-33457692faad",
+              "value": 68751,
+              "timestamp": 1549801925229
+            },
+            {
+              "id": "66c352f7-c990-4f97-b3ba-bd798af1cb75",
+              "value": 69790,
+              "timestamp": 1554779758460
+            },
+            {
+              "id": "c277a525-b1b3-45e8-9123-e22ce2e0b813",
+              "value": 83559,
+              "timestamp": 1565255462571
+            },
+            {
+              "id": "6d9ab61f-494c-4305-8daf-2b61b35a11e3",
+              "value": 30931,
+              "timestamp": 1549349281683
+            },
+            {
+              "id": "613ff121-cba5-438f-9c97-386a8562feca",
+              "value": 9372,
+              "timestamp": 1567481382104
+            },
+            {
+              "id": "54f3e427-170a-48ca-b90e-f9d1fca06c23",
+              "value": 83733,
+              "timestamp": 1568405418221
+            },
+            {
+              "id": "da21877a-1d60-46ff-848d-658800b4f790",
+              "value": 80562,
+              "timestamp": 1564773338545
+            },
+            {
+              "id": "32b5b362-d658-45ef-a7ab-2b85057e4ab8",
+              "value": 94841,
+              "timestamp": 1569942930473
+            }
+          ]
+        },
+        {
+          "id": "14d19c5e-19aa-49bd-a086-462b747f104a",
+          "name": "Alejandrin38",
+          "data": [
+            {
+              "id": "5cb6e743-c38a-4caf-aa48-180344d5b2c7",
+              "value": 57539,
+              "timestamp": 1578371236077
+            },
+            {
+              "id": "31480335-1a77-408f-a6d3-baaefa32cd9c",
+              "value": 48281,
+              "timestamp": 1567821274615
+            },
+            {
+              "id": "df7fc1a4-5431-4096-bafa-a0aa1455b82f",
+              "value": 91235,
+              "timestamp": 1574401389138
+            },
+            {
+              "id": "0372720a-f3b4-471b-87a5-ba91bd357db3",
+              "value": 51321,
+              "timestamp": 1562099571720
+            },
+            {
+              "id": "a67c1f2b-b31e-48dc-a169-71e3f46c80e5",
+              "value": 81595,
+              "timestamp": 1548981996448
+            },
+            {
+              "id": "bd679bcc-81e4-4352-97ab-af3c84d57a0c",
+              "value": 87974,
+              "timestamp": 1565836960100
+            },
+            {
+              "id": "b64e0c45-4ea4-4d95-9b93-6e4fbaa5eb96",
+              "value": 45335,
+              "timestamp": 1569985432343
+            },
+            {
+              "id": "9dfbf481-7090-456b-af22-ebc5fa199a77",
+              "value": 66624,
+              "timestamp": 1549870807351
+            },
+            {
+              "id": "22cb83ff-94ba-4f30-b738-0518735a2ffc",
+              "value": 40485,
+              "timestamp": 1549489023788
+            },
+            {
+              "id": "63785b1c-cb82-4718-9726-6b256b69477c",
+              "value": 18401,
+              "timestamp": 1573715860473
+            }
+          ]
+        },
+        {
+          "id": "440192ca-b71b-4c52-ba14-0e6c2d776714",
+          "name": "Jameson_Bode",
+          "data": [
+            {
+              "id": "fea5ce65-defb-45fc-8d8b-983ec5bd22b2",
+              "value": 46383,
+              "timestamp": 1565357010305
+            },
+            {
+              "id": "9cf13946-3004-4b81-aa52-75191cd66a1a",
+              "value": 77513,
+              "timestamp": 1572123318865
+            },
+            {
+              "id": "d07d4200-3736-4e66-b657-2bf321aca9ed",
+              "value": 22008,
+              "timestamp": 1551031169423
+            },
+            {
+              "id": "c9562d71-a18e-4862-85d1-2fedae0c7209",
+              "value": 56148,
+              "timestamp": 1572861004975
+            },
+            {
+              "id": "6dcb8371-a07c-4d8c-9b08-be80d3569dba",
+              "value": 14051,
+              "timestamp": 1566163786359
+            },
+            {
+              "id": "e1fcea3d-7173-4401-8fbc-47641e380db5",
+              "value": 45896,
+              "timestamp": 1553956928713
+            },
+            {
+              "id": "917ab561-e738-413b-96c2-d739439b481d",
+              "value": 97799,
+              "timestamp": 1562528063075
+            },
+            {
+              "id": "430033be-dffe-41b1-afe4-d4c6fd3d25b6",
+              "value": 63231,
+              "timestamp": 1553298106529
+            },
+            {
+              "id": "6552c95f-ef48-41e3-b5be-42e78be5c2f6",
+              "value": 34749,
+              "timestamp": 1566056257997
+            },
+            {
+              "id": "a4009407-85fc-4b7d-a6b4-efb49fe824ca",
+              "value": 7615,
+              "timestamp": 1570264146513
+            }
+          ]
+        },
+        {
+          "id": "87946a3e-c346-4f0a-867f-471275b3dd3b",
+          "name": "Jerod38",
+          "data": [
+            {
+              "id": "46dee897-9dca-4ba9-bb25-94ae5d3d0b14",
+              "value": 14772,
+              "timestamp": 1560883914376
+            },
+            {
+              "id": "e91fb224-3257-4ed2-af81-572653c5873e",
+              "value": 71626,
+              "timestamp": 1551617266366
+            },
+            {
+              "id": "3748d50b-e41f-4e71-bf69-b26d20f9e1ad",
+              "value": 44361,
+              "timestamp": 1558808684033
+            },
+            {
+              "id": "0db6056a-20cd-4c6f-afd0-f9c3ee600a80",
+              "value": 78280,
+              "timestamp": 1579316188454
+            },
+            {
+              "id": "39fe7cc9-1120-4de7-8949-e43750ff2759",
+              "value": 9013,
+              "timestamp": 1554218459361
+            },
+            {
+              "id": "e05dac7f-3b8a-4993-8347-566a13edac10",
+              "value": 29824,
+              "timestamp": 1571637750009
+            },
+            {
+              "id": "4a158bde-5e94-4bfe-a276-3a9f2e8f16e2",
+              "value": 40428,
+              "timestamp": 1563330897225
+            },
+            {
+              "id": "a6f815ad-13ee-4a6d-a415-e0b989d7b97c",
+              "value": 78034,
+              "timestamp": 1551755691395
+            },
+            {
+              "id": "d6cfb17b-1d7e-45b8-b282-3433ca93c2d7",
+              "value": 7180,
+              "timestamp": 1563504035326
+            },
+            {
+              "id": "eae998c4-696b-4a27-a817-f7ef215cce23",
+              "value": 71091,
+              "timestamp": 1550484336741
+            }
+          ]
+        },
+        {
+          "id": "9dd34b26-ed1d-4ebc-af7d-491a9a3e6df1",
+          "name": "Gage97",
+          "data": [
+            {
+              "id": "b8e2ad69-683f-4c68-841b-183bcd3c95a8",
+              "value": 54682,
+              "timestamp": 1568598906303
+            },
+            {
+              "id": "8e2e6f74-cc5f-4cb3-9f43-ac494432d36b",
+              "value": 74069,
+              "timestamp": 1567644883811
+            },
+            {
+              "id": "cfc9e022-b1a7-4de7-83b2-6727e667ed1e",
+              "value": 98523,
+              "timestamp": 1560778735739
+            },
+            {
+              "id": "4246841f-15af-4ab7-af63-1a98a3647996",
+              "value": 71120,
+              "timestamp": 1568044802165
+            },
+            {
+              "id": "a37f3ac0-a83b-44d8-97fc-4829e0f6a387",
+              "value": 49053,
+              "timestamp": 1563066490061
+            },
+            {
+              "id": "067ed76b-4c07-40c7-afa1-ad9014ee9c96",
+              "value": 54475,
+              "timestamp": 1579944180091
+            },
+            {
+              "id": "3c02f1b7-0d3b-4dcb-8a3e-14855a27ba1a",
+              "value": 3214,
+              "timestamp": 1568001992532
+            },
+            {
+              "id": "5c1919f8-6a42-4d20-8c05-b1e54e54547b",
+              "value": 77020,
+              "timestamp": 1551967656231
+            },
+            {
+              "id": "9ddfc67d-d61b-481b-b068-cee4861dfe37",
+              "value": 98842,
+              "timestamp": 1577168924928
+            },
+            {
+              "id": "aa82aa24-ddfa-4213-986c-3bb00fe984f9",
+              "value": 90684,
+              "timestamp": 1549546811447
+            }
+          ]
+        },
+        {
+          "id": "c7d9fd7b-22ee-493f-9506-46fa30472f2f",
+          "name": "Dewitt36",
+          "data": [
+            {
+              "id": "fda8a3b4-6375-49ca-8fb2-8e2de3306928",
+              "value": 84379,
+              "timestamp": 1559890658519
+            },
+            {
+              "id": "c3ff32f1-34cc-4b53-881e-5f8821fba699",
+              "value": 93509,
+              "timestamp": 1567425326362
+            },
+            {
+              "id": "7202c981-9fdd-433b-832e-4c5cb31196d4",
+              "value": 34279,
+              "timestamp": 1549229883037
+            },
+            {
+              "id": "8fd565a9-8461-410b-a0af-a6ceca604104",
+              "value": 73512,
+              "timestamp": 1550899090895
+            },
+            {
+              "id": "c36bc42d-b276-422c-911c-b6883a10d087",
+              "value": 61007,
+              "timestamp": 1562595779318
+            },
+            {
+              "id": "47ab93db-3345-47b2-9c5e-f18464d524c7",
+              "value": 48971,
+              "timestamp": 1556442826444
+            },
+            {
+              "id": "bad763b4-dba4-4e26-ae4a-ed0ca52f352a",
+              "value": 69544,
+              "timestamp": 1554436136141
+            },
+            {
+              "id": "3a6840a2-aa9e-4d87-b633-b8bdecb06c77",
+              "value": 99031,
+              "timestamp": 1579066230519
+            },
+            {
+              "id": "91f88c5f-056b-487a-95c6-dcedcac41883",
+              "value": 95199,
+              "timestamp": 1550575867514
+            },
+            {
+              "id": "5502c1d6-5939-49bc-895a-dcc5a142e8ac",
+              "value": 84534,
+              "timestamp": 1559315891220
+            }
+          ]
+        },
+        {
+          "id": "e9715ecc-c031-4d6f-8fb4-b1e40ddc0531",
+          "name": "Tyrell50",
+          "data": [
+            {
+              "id": "b3e6424f-4022-4c63-b329-2a436af894c5",
+              "value": 42634,
+              "timestamp": 1572665270515
+            },
+            {
+              "id": "78f71988-c578-4e6d-a91d-0677ba527d44",
+              "value": 96916,
+              "timestamp": 1560790687702
+            },
+            {
+              "id": "9a31c63d-029b-4018-8c18-d3bc12b1bff5",
+              "value": 74212,
+              "timestamp": 1550214904514
+            },
+            {
+              "id": "6d1f6adb-9515-47fe-b2f0-a7676ab40c3a",
+              "value": 29163,
+              "timestamp": 1553102062721
+            },
+            {
+              "id": "301054c3-6240-418a-817c-5d7fd8d69f6b",
+              "value": 46600,
+              "timestamp": 1554633135185
+            },
+            {
+              "id": "1eb8ba33-4a59-448c-bec9-7168bb8f73c0",
+              "value": 77346,
+              "timestamp": 1578389635546
+            },
+            {
+              "id": "e3adf619-765b-44ff-821b-20f79b697e8c",
+              "value": 58204,
+              "timestamp": 1571417836249
+            },
+            {
+              "id": "78eaaf04-5566-4754-b4b4-5c7f4eb6d2dc",
+              "value": 99439,
+              "timestamp": 1571337850339
+            },
+            {
+              "id": "b0c0b3d4-cc40-431e-bbd6-9752fea8467c",
+              "value": 30249,
+              "timestamp": 1558265967532
+            },
+            {
+              "id": "684863f9-0ddb-4555-85ea-ede0760e2414",
+              "value": 97290,
+              "timestamp": 1577763757344
+            }
+          ]
+        },
+        {
+          "id": "a95e351f-f518-42dc-acce-b5e56038ae8f",
+          "name": "Janiya87",
+          "data": [
+            {
+              "id": "b069c157-6b9e-4c33-85cd-643543b69591",
+              "value": 65084,
+              "timestamp": 1555811325019
+            },
+            {
+              "id": "8827119f-df8c-4b17-8d2d-1af28506825c",
+              "value": 43851,
+              "timestamp": 1549756354770
+            },
+            {
+              "id": "fc0e0335-a6f9-4a4e-98a7-43b5843ae8a1",
+              "value": 21479,
+              "timestamp": 1568083719169
+            },
+            {
+              "id": "2432845b-7f7c-48b3-8dd0-bcb50f74ba2f",
+              "value": 86465,
+              "timestamp": 1577190557466
+            },
+            {
+              "id": "6288af8e-96b2-436c-ba1c-588069ce9462",
+              "value": 18834,
+              "timestamp": 1555953317027
+            },
+            {
+              "id": "84986134-042d-4e6f-920e-f0ac20a0d764",
+              "value": 26440,
+              "timestamp": 1579182633877
+            },
+            {
+              "id": "eafba43d-4aca-4d1a-9137-55d56b6dbf2c",
+              "value": 40859,
+              "timestamp": 1578062435457
+            },
+            {
+              "id": "fa07383d-2f7f-4001-a878-996411e2e13c",
+              "value": 15514,
+              "timestamp": 1559991747790
+            },
+            {
+              "id": "1d6ac1d2-0ea1-4d29-9442-9e477747489f",
+              "value": 48704,
+              "timestamp": 1555442847017
+            },
+            {
+              "id": "796a8643-191c-49ac-93dc-0fe1b8d5fb97",
+              "value": 19992,
+              "timestamp": 1576166291809
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3c67f874-b4bf-41eb-9e90-c4564c9cee49",
+      "name": "Trycia58",
+      "lastKnownPosition": {
+        "latitude": 50.4249879,
+        "longitude": 30.531965
+      },
+      "sensors": [
+        {
+          "id": "ce3752d7-9ea2-4e19-a451-0c6b5581bcab",
+          "name": "Madelynn_Hilpert55",
+          "data": [
+            {
+              "id": "85ec2ead-6677-4bea-b3a2-cd4b9a3e5457",
+              "value": 66663,
+              "timestamp": 1567629711377
+            },
+            {
+              "id": "05f81ea3-07fb-4c09-a7d4-6552026de8ad",
+              "value": 46820,
+              "timestamp": 1569589964983
+            },
+            {
+              "id": "0157ac28-f552-4a24-9cdf-4d6c23dd9156",
+              "value": 64260,
+              "timestamp": 1578538393205
+            },
+            {
+              "id": "66259441-d84a-418e-89ab-8ed4d3ea9e2a",
+              "value": 75130,
+              "timestamp": 1554773340333
+            },
+            {
+              "id": "aace855d-c34b-426a-a9c8-b05a130deba3",
+              "value": 73635,
+              "timestamp": 1557745085849
+            },
+            {
+              "id": "3e80099b-18b1-4d8d-80a9-1f5c62a5795d",
+              "value": 92017,
+              "timestamp": 1569597284019
+            },
+            {
+              "id": "d46b28de-57a4-4caa-a116-2c62e768510f",
+              "value": 57884,
+              "timestamp": 1549490159328
+            },
+            {
+              "id": "b3fd12b6-e1ab-48e4-910f-43fd0be1a7f6",
+              "value": 46754,
+              "timestamp": 1572974773150
+            },
+            {
+              "id": "6df31abe-7ef6-47bb-be82-a62256582cab",
+              "value": 37380,
+              "timestamp": 1566376411055
+            },
+            {
+              "id": "2dd624cb-a684-43ed-9e51-ba1cdae0ebf9",
+              "value": 31211,
+              "timestamp": 1559134696590
+            }
+          ]
+        },
+        {
+          "id": "64572956-30b5-43c0-87be-0a28a523ca64",
+          "name": "Vergie90",
+          "data": [
+            {
+              "id": "4233df67-b71a-4632-a24b-d74eb02738cf",
+              "value": 51038,
+              "timestamp": 1552252221155
+            },
+            {
+              "id": "fe47ba54-0524-4cc3-baa5-013de8c1dd2d",
+              "value": 70500,
+              "timestamp": 1566491860609
+            },
+            {
+              "id": "0b46aa8d-7b16-4ac8-9490-bbe13ef0ad86",
+              "value": 25947,
+              "timestamp": 1551675204320
+            },
+            {
+              "id": "66083818-1f1a-4b20-b3d2-43ae7bb2f312",
+              "value": 20804,
+              "timestamp": 1576248108313
+            },
+            {
+              "id": "7112dfc9-d02d-4bd2-8eb1-7574069c2e4e",
+              "value": 56234,
+              "timestamp": 1569174797401
+            },
+            {
+              "id": "2ff377d1-4a51-4f59-9efa-6bddf3d134cd",
+              "value": 86739,
+              "timestamp": 1578981790349
+            },
+            {
+              "id": "96ef1e65-66cd-4a20-ae08-08aa87dd6e0e",
+              "value": 17697,
+              "timestamp": 1562666953681
+            },
+            {
+              "id": "afa21257-bda4-421b-9863-78be9e7a24e7",
+              "value": 1485,
+              "timestamp": 1553717130030
+            },
+            {
+              "id": "802d7c98-547c-4b83-801c-4e6b9c69ed83",
+              "value": 32030,
+              "timestamp": 1578345607808
+            },
+            {
+              "id": "d2113775-d0f5-4c94-9822-65d627a37b27",
+              "value": 31546,
+              "timestamp": 1569780234606
+            }
+          ]
+        },
+        {
+          "id": "6867472b-2db6-4c4d-84e4-f33e3f966331",
+          "name": "Darby_Stanton62",
+          "data": [
+            {
+              "id": "6929f8d0-58be-48d6-a1f7-fb23edc61704",
+              "value": 29056,
+              "timestamp": 1571980042015
+            },
+            {
+              "id": "97ea6025-b3f7-4ffc-bd9e-14acaaef0878",
+              "value": 89232,
+              "timestamp": 1552506034441
+            },
+            {
+              "id": "da3079cd-b59a-41e4-9ded-4da0f43a1e80",
+              "value": 4912,
+              "timestamp": 1549300168276
+            },
+            {
+              "id": "324a7f9a-0639-4ef6-a4b8-fdee05965001",
+              "value": 20078,
+              "timestamp": 1556188156607
+            },
+            {
+              "id": "b57532d5-0849-4939-8f48-bee9830bb6c1",
+              "value": 16339,
+              "timestamp": 1557107820649
+            },
+            {
+              "id": "49daa128-2ff5-4c18-a0a4-46a44a55a151",
+              "value": 27992,
+              "timestamp": 1569354286240
+            },
+            {
+              "id": "0852c1e3-b4a8-4690-8c0c-1d02c9cabe6f",
+              "value": 14240,
+              "timestamp": 1551678446679
+            },
+            {
+              "id": "f9ef89f9-9a1c-4a70-84af-c7d649546ec3",
+              "value": 73275,
+              "timestamp": 1567374508493
+            },
+            {
+              "id": "b56d4fc8-bff4-4ba7-aa69-9461e3300dda",
+              "value": 51699,
+              "timestamp": 1572974548220
+            },
+            {
+              "id": "08447c8b-82ec-4a3c-b603-ed01597caca4",
+              "value": 18509,
+              "timestamp": 1573288859599
+            }
+          ]
+        },
+        {
+          "id": "bae20c66-50ee-4df6-b452-90c067eb3686",
+          "name": "Emory.Krajcik",
+          "data": [
+            {
+              "id": "940bba43-635b-483f-b3aa-2858329128cf",
+              "value": 86228,
+              "timestamp": 1570449589666
+            },
+            {
+              "id": "ba1fa6cc-b1c1-47a8-b6df-92d597880d2c",
+              "value": 83670,
+              "timestamp": 1577954837173
+            },
+            {
+              "id": "3ab08722-3753-4bf3-aca3-785602cf06c6",
+              "value": 20246,
+              "timestamp": 1551185702032
+            },
+            {
+              "id": "1b12ffdf-06ae-4008-bcd5-2077c195d9fb",
+              "value": 74888,
+              "timestamp": 1559383628779
+            },
+            {
+              "id": "93cfd0ee-a7d4-4f7f-b490-8bfdce183211",
+              "value": 35800,
+              "timestamp": 1559898687683
+            },
+            {
+              "id": "fd9a6e04-a721-4ce7-9236-ca5ef3541f0d",
+              "value": 68145,
+              "timestamp": 1573554374658
+            },
+            {
+              "id": "6d79864a-1d5c-470d-82d3-f797ea412d77",
+              "value": 73330,
+              "timestamp": 1548602082616
+            },
+            {
+              "id": "9aeaa0e2-f813-4563-a781-66f21b5521e8",
+              "value": 468,
+              "timestamp": 1558595629578
+            },
+            {
+              "id": "7cab8a8c-4ce7-4c23-b136-966c479a62d8",
+              "value": 30239,
+              "timestamp": 1554618680744
+            },
+            {
+              "id": "bfb86418-e1a4-4d2e-9d53-d3c1fe392f79",
+              "value": 95440,
+              "timestamp": 1554738686692
+            }
+          ]
+        },
+        {
+          "id": "17ff5bc5-75a3-405e-b923-2c95d993d426",
+          "name": "Karolann68",
+          "data": [
+            {
+              "id": "37742d92-3d0f-4865-aa5a-e5c26ec5bbc6",
+              "value": 342,
+              "timestamp": 1563543631920
+            },
+            {
+              "id": "a804ef80-c9cb-4dba-9ea8-91e15fa8c647",
+              "value": 10001,
+              "timestamp": 1557047005490
+            },
+            {
+              "id": "0f057fcc-2359-47df-9b80-30460b378872",
+              "value": 12211,
+              "timestamp": 1557152292834
+            },
+            {
+              "id": "b87310d5-1d30-4b62-ac88-dda3f7e40d83",
+              "value": 75694,
+              "timestamp": 1550274614702
+            },
+            {
+              "id": "a6a5cad1-c5f5-4a6b-9b84-da182270de24",
+              "value": 76132,
+              "timestamp": 1564544460293
+            },
+            {
+              "id": "53d8655f-0fe5-40e3-9ac9-b88f6912f654",
+              "value": 70492,
+              "timestamp": 1564132537036
+            },
+            {
+              "id": "f1c10926-f3da-441b-9ef5-ab2223afd8aa",
+              "value": 75485,
+              "timestamp": 1574889418057
+            },
+            {
+              "id": "fcaea5bd-41fe-4156-b98e-d510e11f2373",
+              "value": 74078,
+              "timestamp": 1563065897298
+            },
+            {
+              "id": "1c04cdd5-a9a3-4820-86a8-ac71617986b0",
+              "value": 72906,
+              "timestamp": 1552291633208
+            },
+            {
+              "id": "7a923034-25eb-4502-b95b-a8d0ba5f980c",
+              "value": 20640,
+              "timestamp": 1558226992332
+            }
+          ]
+        },
+        {
+          "id": "db1ae538-d041-47f3-9920-e867a5f725bf",
+          "name": "Perry39",
+          "data": [
+            {
+              "id": "f497aa9d-dfbf-49c3-9814-489a003a3c90",
+              "value": 58138,
+              "timestamp": 1579141918155
+            },
+            {
+              "id": "e4ddd405-4f17-4c29-9665-c78f6eda8268",
+              "value": 51785,
+              "timestamp": 1554657402730
+            },
+            {
+              "id": "1d14b807-1786-4cca-a6a6-9d5e952fd26c",
+              "value": 36995,
+              "timestamp": 1556025630821
+            },
+            {
+              "id": "38f9171f-2114-4dd8-9681-f50e68921baf",
+              "value": 51714,
+              "timestamp": 1575547619047
+            },
+            {
+              "id": "800f2904-4518-4aa6-a75f-474655353396",
+              "value": 93974,
+              "timestamp": 1575903691345
+            },
+            {
+              "id": "5eeed772-b891-4bdc-b251-773ada76033a",
+              "value": 81168,
+              "timestamp": 1556498695474
+            },
+            {
+              "id": "31a69d07-93c4-4a88-afb2-2235a2eed623",
+              "value": 59379,
+              "timestamp": 1567499551855
+            },
+            {
+              "id": "049166b9-b11b-43db-8ac5-5cce27c21b02",
+              "value": 78109,
+              "timestamp": 1566876508867
+            },
+            {
+              "id": "f8a176be-1a21-4672-be70-3300fbf9b7f5",
+              "value": 95882,
+              "timestamp": 1556931126575
+            },
+            {
+              "id": "d377486b-5c5d-4ac5-8215-6adbe8b97b73",
+              "value": 87494,
+              "timestamp": 1570899676663
+            }
+          ]
+        },
+        {
+          "id": "e711bb99-3657-4f51-8fe9-8054f7001f7f",
+          "name": "Alverta.Wuckert",
+          "data": [
+            {
+              "id": "905a815b-b5c4-4f68-b00e-9ce68ca443a0",
+              "value": 48452,
+              "timestamp": 1575244975122
+            },
+            {
+              "id": "6668d306-ae7e-4fc6-9862-b5fda48afbb1",
+              "value": 57016,
+              "timestamp": 1555112167560
+            },
+            {
+              "id": "24468a37-80df-45e2-8f6e-0f43a24ef8c7",
+              "value": 82068,
+              "timestamp": 1575912325483
+            },
+            {
+              "id": "46aea824-2596-4d5c-b45f-b372f6a3c06f",
+              "value": 69596,
+              "timestamp": 1556135935694
+            },
+            {
+              "id": "dbeaa8c2-3566-4c27-a38d-18a1e4cd46cc",
+              "value": 46912,
+              "timestamp": 1578643850463
+            },
+            {
+              "id": "7029ba7c-b375-4ffe-8a32-b4bc5114ed1d",
+              "value": 33579,
+              "timestamp": 1560622786020
+            },
+            {
+              "id": "2fdc6c73-ec1b-4f4a-b25d-9671eec0b23a",
+              "value": 71532,
+              "timestamp": 1551455202383
+            },
+            {
+              "id": "49b91bc0-0df1-406a-a093-eb89bde708fe",
+              "value": 86962,
+              "timestamp": 1557285408364
+            },
+            {
+              "id": "eabffa83-6630-45f9-941a-4ba25c8b6d31",
+              "value": 25461,
+              "timestamp": 1561297051783
+            },
+            {
+              "id": "5af3dbcb-7070-43b7-94ee-011b24bc8b2a",
+              "value": 1031,
+              "timestamp": 1564334250384
+            }
+          ]
+        },
+        {
+          "id": "715a48cf-3fa2-466b-bbbb-d8bd37b1297c",
+          "name": "Maximillian28",
+          "data": [
+            {
+              "id": "29c7f2c8-bbf3-4711-b0ba-3e96b4683473",
+              "value": 86836,
+              "timestamp": 1554654305944
+            },
+            {
+              "id": "a3e5472b-b730-4ee2-91cb-4766fff0ce9b",
+              "value": 16398,
+              "timestamp": 1564750921046
+            },
+            {
+              "id": "2bb5faaa-6aad-40d4-84eb-7074651c9954",
+              "value": 32046,
+              "timestamp": 1558088625133
+            },
+            {
+              "id": "25fc68ec-5791-4813-82a6-78509d967b9b",
+              "value": 68531,
+              "timestamp": 1555445367670
+            },
+            {
+              "id": "384a42ab-7993-4222-b1fb-9b3155e08b10",
+              "value": 8262,
+              "timestamp": 1553037252469
+            },
+            {
+              "id": "4ca6cc6f-b5d9-4b73-983d-300cc92a481b",
+              "value": 63824,
+              "timestamp": 1557650894138
+            },
+            {
+              "id": "f45dc194-df24-4522-b235-2aeefe811e6b",
+              "value": 707,
+              "timestamp": 1576131552634
+            },
+            {
+              "id": "f0caa9c2-5cfe-411b-a638-9e8813901d6f",
+              "value": 97042,
+              "timestamp": 1569216172675
+            },
+            {
+              "id": "cfd27449-853d-4ded-8747-522a91eff618",
+              "value": 19119,
+              "timestamp": 1563089661627
+            },
+            {
+              "id": "c700aec5-b7c9-4888-a8de-29b4a3201ea1",
+              "value": 38519,
+              "timestamp": 1554883645405
+            }
+          ]
+        },
+        {
+          "id": "e2047e9f-c6ef-4cb4-b4d1-0b39ff06d331",
+          "name": "Warren.Jones",
+          "data": [
+            {
+              "id": "57144304-aa2f-488f-9ffa-8cc57fba6ad0",
+              "value": 93859,
+              "timestamp": 1574044059474
+            },
+            {
+              "id": "7d473b1f-7447-4f3d-9866-9f5bad6be3bc",
+              "value": 35089,
+              "timestamp": 1555212998910
+            },
+            {
+              "id": "afab3c63-aeea-4cbc-ba23-afacf99fab75",
+              "value": 94679,
+              "timestamp": 1560906678548
+            },
+            {
+              "id": "fa6c5636-2b3d-4d2e-99a0-7a4c897c7243",
+              "value": 3519,
+              "timestamp": 1573783719222
+            },
+            {
+              "id": "7e05e0ab-3634-42fe-bba5-fa83f3106653",
+              "value": 50936,
+              "timestamp": 1575212921571
+            },
+            {
+              "id": "2516b3b8-f8f4-4fc8-9982-186bae222c28",
+              "value": 13200,
+              "timestamp": 1555363062573
+            },
+            {
+              "id": "f4e6eb10-23f9-4885-9a46-f61a4e9d6202",
+              "value": 11363,
+              "timestamp": 1555437912775
+            },
+            {
+              "id": "218ba4ea-2aec-478f-aba4-3bc10d33e5cb",
+              "value": 5713,
+              "timestamp": 1564274929764
+            },
+            {
+              "id": "ae114c59-4b97-4cf6-8a7e-0a7efa7bcc29",
+              "value": 38431,
+              "timestamp": 1563977808022
+            },
+            {
+              "id": "f5fdf2a1-a75f-481f-801d-fc64ef840ae2",
+              "value": 14794,
+              "timestamp": 1570676354735
+            }
+          ]
+        },
+        {
+          "id": "5f67b51d-c913-42e6-b672-8d692d450ff5",
+          "name": "Orrin4",
+          "data": [
+            {
+              "id": "08e8aec7-4051-4e3b-a85a-8fbcb246a5a2",
+              "value": 71979,
+              "timestamp": 1560270528791
+            },
+            {
+              "id": "14f3976d-5679-4190-b17a-60bfa0e26fd0",
+              "value": 61223,
+              "timestamp": 1578901162025
+            },
+            {
+              "id": "665a3aaf-77de-4812-8dd6-be2451993c6a",
+              "value": 96880,
+              "timestamp": 1550812997573
+            },
+            {
+              "id": "80ab3bf9-a6e8-4202-9bbf-78e71a6aa66e",
+              "value": 14415,
+              "timestamp": 1549812736192
+            },
+            {
+              "id": "2171c227-5efb-4aa6-8ad4-20f2e47a6899",
+              "value": 59428,
+              "timestamp": 1556837865758
+            },
+            {
+              "id": "c528e9b4-f297-4e62-8253-a6cdb3c8720a",
+              "value": 39194,
+              "timestamp": 1552563839625
+            },
+            {
+              "id": "cc769755-90b5-4eca-a6d5-9827bdcdea59",
+              "value": 44388,
+              "timestamp": 1577756070535
+            },
+            {
+              "id": "8e9498d8-bb51-4e5e-905a-0d9be5a4b253",
+              "value": 41505,
+              "timestamp": 1574051664341
+            },
+            {
+              "id": "b986a6d9-5ca6-48a3-80f2-1ee2aafa5369",
+              "value": 6068,
+              "timestamp": 1554604826730
+            },
+            {
+              "id": "192f1092-910b-407f-a546-99c846d70cae",
+              "value": 380,
+              "timestamp": 1576184661386
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "90754907-a0f1-47f7-9c6c-68ce57342c8c",
+      "name": "Derek.Ruecker21",
+      "lastKnownPosition": {
+        "latitude": 50.4249879,
+        "longitude": 30.531965
+      },
+      "sensors": [
+        {
+          "id": "64754fc4-af9b-4d9f-b7ef-3737bb8e1cf6",
+          "name": "Frances_Maggio90",
+          "data": [
+            {
+              "id": "3c98cbc9-676a-42af-ac4d-6c64bde2aea4",
+              "value": 75558,
+              "timestamp": 1573722729061
+            },
+            {
+              "id": "b6f58399-3e2c-4793-b2e1-993b3e429fc9",
+              "value": 93638,
+              "timestamp": 1558183970844
+            },
+            {
+              "id": "ef54424b-63b6-4458-abf4-5616ba43dd80",
+              "value": 9936,
+              "timestamp": 1555492471989
+            },
+            {
+              "id": "aa6a8c75-7d81-47e0-89e7-b1afc3f50a2b",
+              "value": 27631,
+              "timestamp": 1566350164454
+            },
+            {
+              "id": "6c7559e6-435c-414a-bdf4-8f84a4d6bd0b",
+              "value": 92834,
+              "timestamp": 1567574845283
+            },
+            {
+              "id": "74a8540e-3f0a-4220-868a-304f6a08cf8d",
+              "value": 95088,
+              "timestamp": 1552514252138
+            },
+            {
+              "id": "2c22a9bb-e685-45ba-9867-c86803ebcc34",
+              "value": 82558,
+              "timestamp": 1575530568273
+            },
+            {
+              "id": "a411ef79-242a-41eb-a79b-dc0c47e217b2",
+              "value": 50158,
+              "timestamp": 1560702249773
+            },
+            {
+              "id": "aa292ba2-6ff1-4454-af3d-1c0110f3fc00",
+              "value": 50736,
+              "timestamp": 1576747328594
+            },
+            {
+              "id": "bdb49209-7601-4cb8-87fb-21fb6e9fab4a",
+              "value": 74119,
+              "timestamp": 1566866887605
+            }
+          ]
+        },
+        {
+          "id": "8cedf2bf-e7f1-474c-bccb-0ff9d89dcf5e",
+          "name": "Ophelia_Jakubowski",
+          "data": [
+            {
+              "id": "374a7608-0cbf-46b1-9a28-813c288ead03",
+              "value": 77289,
+              "timestamp": 1574127774063
+            },
+            {
+              "id": "5637210d-5110-457f-8426-5d5bafebc94b",
+              "value": 98844,
+              "timestamp": 1565658220034
+            },
+            {
+              "id": "ee446481-9155-4e44-913f-76f222c27c1c",
+              "value": 12727,
+              "timestamp": 1555767694285
+            },
+            {
+              "id": "68db807b-0591-4c7c-a42e-03d33ca26898",
+              "value": 76885,
+              "timestamp": 1571895548318
+            },
+            {
+              "id": "850cc9a7-f4d3-441a-b67a-0848dd818629",
+              "value": 18492,
+              "timestamp": 1551879816272
+            },
+            {
+              "id": "251c7b60-934a-4ca6-808b-37c948150baa",
+              "value": 3722,
+              "timestamp": 1574302980890
+            },
+            {
+              "id": "bd67e980-9c91-426d-947d-767e593de660",
+              "value": 16967,
+              "timestamp": 1571968850234
+            },
+            {
+              "id": "25f7a101-3354-4123-b99c-e4e4b10c4077",
+              "value": 27892,
+              "timestamp": 1555097229516
+            },
+            {
+              "id": "3a61ec30-9d79-4c26-bd9b-d0577462427c",
+              "value": 6079,
+              "timestamp": 1568204131199
+            },
+            {
+              "id": "9154d646-cf1f-40eb-ba9f-765e03930363",
+              "value": 77873,
+              "timestamp": 1551873159548
+            }
+          ]
+        },
+        {
+          "id": "3345b3d8-e75e-4786-bf7a-224898364879",
+          "name": "Miles46",
+          "data": [
+            {
+              "id": "293ed795-b123-45af-990b-7c026b065644",
+              "value": 1900,
+              "timestamp": 1562445420509
+            },
+            {
+              "id": "025969d1-bad1-4f6d-b488-09cb9928694a",
+              "value": 89968,
+              "timestamp": 1550936854688
+            },
+            {
+              "id": "c9be9d07-c7e7-4ec9-b26c-7398066945f7",
+              "value": 95891,
+              "timestamp": 1573983382752
+            },
+            {
+              "id": "bd99ba10-d41e-4b0e-a204-e0e9949fa924",
+              "value": 44649,
+              "timestamp": 1565224355177
+            },
+            {
+              "id": "5865c054-f5b4-4f46-85c2-4ed6e460d7c8",
+              "value": 43178,
+              "timestamp": 1555399331767
+            },
+            {
+              "id": "87e607dd-d9e8-4ac2-b50d-2a96a545b640",
+              "value": 3609,
+              "timestamp": 1549578615779
+            },
+            {
+              "id": "1ce58948-f32d-4b20-9fb5-80c67c76ad2a",
+              "value": 1315,
+              "timestamp": 1567816107976
+            },
+            {
+              "id": "44eb7392-3249-4371-b43d-0761272c3f11",
+              "value": 38881,
+              "timestamp": 1575677453517
+            },
+            {
+              "id": "68a6cbb1-fc6c-4d11-8a89-031f76359f34",
+              "value": 12368,
+              "timestamp": 1554253788263
+            },
+            {
+              "id": "5fd4f6e5-62dd-4b57-8423-d7d76f1663d0",
+              "value": 82446,
+              "timestamp": 1568932963981
+            }
+          ]
+        },
+        {
+          "id": "0fcfbb83-fdaa-4cf6-8b0b-cf6d2bd798c5",
+          "name": "Delmer_Rath",
+          "data": [
+            {
+              "id": "9a6a667b-ace8-467e-8ed1-c81507917a2c",
+              "value": 47207,
+              "timestamp": 1550272076582
+            },
+            {
+              "id": "20969944-4e7a-4b8a-a19d-051d14d765b9",
+              "value": 74541,
+              "timestamp": 1556931558354
+            },
+            {
+              "id": "547ecc94-4b4e-47f7-845e-3588d726b5d1",
+              "value": 20475,
+              "timestamp": 1578576476179
+            },
+            {
+              "id": "8ce6e798-262a-452d-acea-d569bb5fb84f",
+              "value": 23361,
+              "timestamp": 1556847031952
+            },
+            {
+              "id": "84a11bca-e6e7-4aed-9c58-84fbd9c6ee06",
+              "value": 57467,
+              "timestamp": 1560329530614
+            },
+            {
+              "id": "b1e431f8-d38a-430e-843b-59be0fa2e1a0",
+              "value": 37873,
+              "timestamp": 1571577980600
+            },
+            {
+              "id": "92db1fab-eef3-4823-9589-9b4324e6831d",
+              "value": 41522,
+              "timestamp": 1572378820389
+            },
+            {
+              "id": "8644fc58-9165-4472-a963-ce5be57008fc",
+              "value": 6347,
+              "timestamp": 1574527282975
+            },
+            {
+              "id": "995dc14b-ad13-4808-a2d2-992735a75b40",
+              "value": 103,
+              "timestamp": 1560987117010
+            },
+            {
+              "id": "0bd37506-ab89-4571-a27b-f401e799888f",
+              "value": 18528,
+              "timestamp": 1559173103693
+            }
+          ]
+        },
+        {
+          "id": "76124258-8557-41fe-a40a-182834781678",
+          "name": "Elena.Russel34",
+          "data": [
+            {
+              "id": "a832684e-c199-442e-8b88-abc7bd3b9d6a",
+              "value": 84138,
+              "timestamp": 1558737362910
+            },
+            {
+              "id": "4148ea6b-00a6-4de4-83c5-a2784d91cba8",
+              "value": 49992,
+              "timestamp": 1578224090918
+            },
+            {
+              "id": "8c836601-4833-4119-a0d7-2b8b7c54de4f",
+              "value": 36623,
+              "timestamp": 1553536189079
+            },
+            {
+              "id": "9b88c544-8264-409f-9419-a83bf61e4516",
+              "value": 88422,
+              "timestamp": 1562868484319
+            },
+            {
+              "id": "8faa432d-6a5e-4910-a6ad-c2fab6248657",
+              "value": 16717,
+              "timestamp": 1574721994044
+            },
+            {
+              "id": "acb13199-953a-4896-bb45-9447311c586a",
+              "value": 71527,
+              "timestamp": 1575323483162
+            },
+            {
+              "id": "59a23cb8-3ca2-416b-9661-ab195006ea06",
+              "value": 29876,
+              "timestamp": 1567059975458
+            },
+            {
+              "id": "09557f60-b470-47a9-8137-c67a143d6cd7",
+              "value": 51096,
+              "timestamp": 1548877632441
+            },
+            {
+              "id": "7658f114-f8f5-401a-b2e9-239d7eb3ed2f",
+              "value": 76333,
+              "timestamp": 1561575024876
+            },
+            {
+              "id": "9ca83d64-2fba-4ee1-8f1a-fca73488ed15",
+              "value": 26585,
+              "timestamp": 1555801805820
+            }
+          ]
+        },
+        {
+          "id": "40c82090-8f9c-4c77-a70f-036a0499ac42",
+          "name": "Stuart_Bailey9",
+          "data": [
+            {
+              "id": "d2b29421-6bc0-4af8-989a-11519682033a",
+              "value": 26646,
+              "timestamp": 1575541134412
+            },
+            {
+              "id": "be58aa60-5d70-45a7-90d9-b11744251ba8",
+              "value": 51400,
+              "timestamp": 1568597355316
+            },
+            {
+              "id": "c6bebc11-5693-4727-b4c7-9157536d4832",
+              "value": 87001,
+              "timestamp": 1558946507092
+            },
+            {
+              "id": "9704d5d3-5f22-4609-ad63-bba51ecf8035",
+              "value": 980,
+              "timestamp": 1569111723022
+            },
+            {
+              "id": "30539810-f78c-47b7-8ad6-d85c9d28f93e",
+              "value": 80858,
+              "timestamp": 1573821747044
+            },
+            {
+              "id": "7bc34340-1854-4722-9fb7-4d7b0a665152",
+              "value": 52260,
+              "timestamp": 1576907393306
+            },
+            {
+              "id": "4e2f7fa3-a390-4b07-961a-8c33edcff2e1",
+              "value": 50553,
+              "timestamp": 1558408074446
+            },
+            {
+              "id": "259c26c3-c079-4212-bb20-dc9a2d147352",
+              "value": 71407,
+              "timestamp": 1557686443219
+            },
+            {
+              "id": "1324cfa4-0408-44c1-b9a5-99d6e8e48230",
+              "value": 31649,
+              "timestamp": 1560528879163
+            },
+            {
+              "id": "d46fdbf2-5e1b-4c4a-aeed-e21904e19196",
+              "value": 13755,
+              "timestamp": 1568855104780
+            }
+          ]
+        },
+        {
+          "id": "fc4bb0e7-1a00-4967-a69b-43b24792ad1a",
+          "name": "Janie48",
+          "data": [
+            {
+              "id": "461fc6b4-b139-4c93-91ae-cb96fbf40153",
+              "value": 3609,
+              "timestamp": 1563559203613
+            },
+            {
+              "id": "1f8599a9-2d4f-4be0-8590-6bf4c13c1076",
+              "value": 97945,
+              "timestamp": 1555446346404
+            },
+            {
+              "id": "ec52b18a-fcb9-40af-8223-08f8221167b4",
+              "value": 63999,
+              "timestamp": 1571920478460
+            },
+            {
+              "id": "b57daea5-a3e0-4c13-910b-92370826fc46",
+              "value": 98831,
+              "timestamp": 1571627491702
+            },
+            {
+              "id": "4e5b3c6c-cb83-438d-9577-9520f41c05ac",
+              "value": 82903,
+              "timestamp": 1551037483971
+            },
+            {
+              "id": "868d3d0c-5192-40b2-b921-64eb8d7ac24c",
+              "value": 33828,
+              "timestamp": 1566130177717
+            },
+            {
+              "id": "fc16979f-a2b7-4d23-806b-cc45f742fbfd",
+              "value": 93893,
+              "timestamp": 1553602240039
+            },
+            {
+              "id": "af69014b-23b9-4b97-a337-a7c1263d03be",
+              "value": 88318,
+              "timestamp": 1578635859233
+            },
+            {
+              "id": "60683066-a8c6-4e7f-89e7-f60aba2b1ee9",
+              "value": 86815,
+              "timestamp": 1576880036407
+            },
+            {
+              "id": "ee3f895d-9a1d-4577-9157-a8a75a3a5ee9",
+              "value": 25521,
+              "timestamp": 1569506904516
+            }
+          ]
+        },
+        {
+          "id": "f64f6cae-1968-4359-937b-23ee1f4e9a5f",
+          "name": "Carolyne16",
+          "data": [
+            {
+              "id": "edb54bc8-4581-4e8f-b4d7-8be29c35f3b4",
+              "value": 75089,
+              "timestamp": 1570904691748
+            },
+            {
+              "id": "960cf78a-6db1-4af9-8687-ddf55c793bcd",
+              "value": 34734,
+              "timestamp": 1562771806897
+            },
+            {
+              "id": "6f0047aa-7064-4ec0-8713-ba0a85bd6278",
+              "value": 23876,
+              "timestamp": 1557140340798
+            },
+            {
+              "id": "98a6a22d-7179-4625-8451-c843627574e8",
+              "value": 33638,
+              "timestamp": 1576256615146
+            },
+            {
+              "id": "6b79073b-9378-4c05-90ea-73e78064a15c",
+              "value": 25184,
+              "timestamp": 1560870668247
+            },
+            {
+              "id": "179fd3dd-8cc3-4eb5-b96d-48416346ba1b",
+              "value": 41681,
+              "timestamp": 1553579596865
+            },
+            {
+              "id": "d557c6ad-95d4-40c0-bce7-33cb0f959aca",
+              "value": 94108,
+              "timestamp": 1577878976857
+            },
+            {
+              "id": "748e3376-0e9b-47ae-b791-f2670152a7c7",
+              "value": 81625,
+              "timestamp": 1577547061633
+            },
+            {
+              "id": "cbb49821-0a70-44d0-8638-208ff839b87f",
+              "value": 5379,
+              "timestamp": 1559959435468
+            },
+            {
+              "id": "da3c6bbc-2b7b-44bf-8c93-ad5fb811d715",
+              "value": 17742,
+              "timestamp": 1558439212983
+            }
+          ]
+        },
+        {
+          "id": "0a9691a4-4653-4b92-89a0-c5def2e81e72",
+          "name": "Sterling.Harris59",
+          "data": [
+            {
+              "id": "f240c676-d009-4b5b-92dd-db44288b9c71",
+              "value": 50648,
+              "timestamp": 1567757822949
+            },
+            {
+              "id": "e8a120a9-99da-4582-8ede-62705513edb7",
+              "value": 37394,
+              "timestamp": 1570050154064
+            },
+            {
+              "id": "133eab98-1471-4f76-9ddd-20853a5e8656",
+              "value": 9459,
+              "timestamp": 1580028725630
+            },
+            {
+              "id": "efe7046e-e9d8-4c9a-aa2f-54ad430c41cf",
+              "value": 20464,
+              "timestamp": 1552006076110
+            },
+            {
+              "id": "36499b17-3a8a-4faa-9875-fbf3b8b4acc3",
+              "value": 43058,
+              "timestamp": 1561044987000
+            },
+            {
+              "id": "cd6497c7-99f4-4def-9b8e-2fe6f49c20bc",
+              "value": 84555,
+              "timestamp": 1570250753584
+            },
+            {
+              "id": "5fd1bff7-a3a4-43c6-909c-a5f063fdfc36",
+              "value": 81236,
+              "timestamp": 1578667664657
+            },
+            {
+              "id": "e3a05a2f-b45c-4f10-b514-5da123772b3e",
+              "value": 88550,
+              "timestamp": 1559645500350
+            },
+            {
+              "id": "818bd310-1828-412b-9774-b7a1017e1a26",
+              "value": 92673,
+              "timestamp": 1556734403193
+            },
+            {
+              "id": "69711bd3-6d2a-450a-94c7-d17e22287136",
+              "value": 6666,
+              "timestamp": 1563531878589
+            }
+          ]
+        },
+        {
+          "id": "3e0d87bd-6668-4914-9bf5-49f58f8527a0",
+          "name": "Gerald86",
+          "data": [
+            {
+              "id": "a48060a6-a348-4750-b157-0663307da350",
+              "value": 1113,
+              "timestamp": 1576865333266
+            },
+            {
+              "id": "4a0b0acd-5b7e-42a7-81a7-03e047223d0c",
+              "value": 41416,
+              "timestamp": 1569511310793
+            },
+            {
+              "id": "51f98df7-5455-4e2f-a391-839bf7ab075c",
+              "value": 22986,
+              "timestamp": 1562423743225
+            },
+            {
+              "id": "5731142d-04af-411f-a191-b77f31a43e78",
+              "value": 15315,
+              "timestamp": 1560195362074
+            },
+            {
+              "id": "5c4d2a06-d64d-4b98-b74f-7c2a12485fa4",
+              "value": 11002,
+              "timestamp": 1573929807543
+            },
+            {
+              "id": "ff13f408-5af1-48d9-a48a-19b4a1459020",
+              "value": 35125,
+              "timestamp": 1556956781831
+            },
+            {
+              "id": "b331634c-9c98-4560-953d-a58f4047ca47",
+              "value": 85218,
+              "timestamp": 1578033552273
+            },
+            {
+              "id": "d54a9c8e-0089-4007-b5fc-2115d8d8bda1",
+              "value": 89315,
+              "timestamp": 1573023485481
+            },
+            {
+              "id": "c45ea725-2a4d-40b0-ab81-2c92b39ab50e",
+              "value": 697,
+              "timestamp": 1566600940651
+            },
+            {
+              "id": "1f529c12-0bfa-45f9-a46d-88c93ea4fc5c",
+              "value": 32124,
+              "timestamp": 1557194556454
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8be39124-cc7f-4a59-bb3b-bc055d2e79f6",
+      "name": "Elliott.Mayer82",
+      "lastKnownPosition": {
+        "latitude": 50.4249879,
+        "longitude": 30.531965
+      },
+      "sensors": [
+        {
+          "id": "040ade83-96b9-4474-9b32-86052efc88ea",
+          "name": "Malachi86",
+          "data": [
+            {
+              "id": "846d3794-de93-4942-a89c-c7c61bad2060",
+              "value": 86306,
+              "timestamp": 1571552342453
+            },
+            {
+              "id": "8bc01c8d-9ee0-4aa3-ad06-92e14c8c6a66",
+              "value": 94574,
+              "timestamp": 1562567116632
+            },
+            {
+              "id": "4cc19288-2ef9-40db-b1ba-bb2817d37917",
+              "value": 51839,
+              "timestamp": 1572816735293
+            },
+            {
+              "id": "e590ca13-c1c0-4b0e-a9d8-9a01d70f97e7",
+              "value": 57900,
+              "timestamp": 1578261819914
+            },
+            {
+              "id": "56a8e6a0-dc79-4378-a17c-486e756dc1a3",
+              "value": 38284,
+              "timestamp": 1557801968563
+            },
+            {
+              "id": "98c7b963-e2ca-48f2-8697-591ffee502a1",
+              "value": 53720,
+              "timestamp": 1578773887302
+            },
+            {
+              "id": "a3575415-9943-40c1-99c4-3e895e99251a",
+              "value": 71653,
+              "timestamp": 1574975054838
+            },
+            {
+              "id": "7ced1d19-c155-4337-95db-b9c361c6eded",
+              "value": 76680,
+              "timestamp": 1574296232914
+            },
+            {
+              "id": "6f457d0c-0ead-41ea-a27a-a8e328bbe95f",
+              "value": 79780,
+              "timestamp": 1575504846217
+            },
+            {
+              "id": "d43062b9-9e21-40ef-a34f-3d55eb1ddc2b",
+              "value": 41301,
+              "timestamp": 1575115304761
+            }
+          ]
+        },
+        {
+          "id": "0c6e6f07-22c9-4b15-9627-21b819c6ee5c",
+          "name": "Alejandrin89",
+          "data": [
+            {
+              "id": "3a1c3688-56ad-4834-8d5d-b500afb4169a",
+              "value": 87921,
+              "timestamp": 1560810918162
+            },
+            {
+              "id": "dd0601bb-5c51-4ecb-a96a-0991c55d1a23",
+              "value": 32223,
+              "timestamp": 1564419901380
+            },
+            {
+              "id": "2e56a01b-2acd-4d96-b6cc-4a02728e9b81",
+              "value": 70435,
+              "timestamp": 1579783621281
+            },
+            {
+              "id": "0bc0286d-8c5a-46e0-83a2-17ac1218cde6",
+              "value": 53240,
+              "timestamp": 1552068473178
+            },
+            {
+              "id": "ae007480-ebac-47b5-ab31-7dda6fafbc8a",
+              "value": 8692,
+              "timestamp": 1579828063897
+            },
+            {
+              "id": "69c9fbf0-3b69-4c88-871f-585b88b1e378",
+              "value": 24552,
+              "timestamp": 1551282880797
+            },
+            {
+              "id": "1ff36f15-f120-4db4-b764-05f89fd369b4",
+              "value": 56158,
+              "timestamp": 1553300790292
+            },
+            {
+              "id": "2e001946-0512-4755-9817-31258bc5df37",
+              "value": 60620,
+              "timestamp": 1564281359671
+            },
+            {
+              "id": "4f185927-75ba-4734-a3f0-10387b8dbc08",
+              "value": 40384,
+              "timestamp": 1574423410431
+            },
+            {
+              "id": "edde7e14-f911-4e81-af23-b21addefa6ec",
+              "value": 68368,
+              "timestamp": 1560630569371
+            }
+          ]
+        },
+        {
+          "id": "2bf52860-fd33-42dc-80fd-3ed05ff870c7",
+          "name": "Summer70",
+          "data": [
+            {
+              "id": "02b9b2f8-7d99-4b92-995d-a5ab49af8633",
+              "value": 48877,
+              "timestamp": 1564122025242
+            },
+            {
+              "id": "14a31405-d097-4731-b338-e992549c2b29",
+              "value": 86178,
+              "timestamp": 1566502461986
+            },
+            {
+              "id": "e65a7bf0-21e7-4506-8e44-f974a989ec86",
+              "value": 78124,
+              "timestamp": 1555063345587
+            },
+            {
+              "id": "bb2434b5-b47c-4628-919a-35449ee099f6",
+              "value": 97120,
+              "timestamp": 1569558549011
+            },
+            {
+              "id": "4283462d-f983-4663-bda3-96ab79266e92",
+              "value": 69306,
+              "timestamp": 1571551666212
+            },
+            {
+              "id": "8499b48d-fefc-41f4-81bd-30e0bc931cbd",
+              "value": 84125,
+              "timestamp": 1559502598843
+            },
+            {
+              "id": "bad78e35-7ee0-49b6-9117-fd899dedc70b",
+              "value": 41917,
+              "timestamp": 1575113233920
+            },
+            {
+              "id": "2b54d210-ba27-4d9f-bde3-51b461f79a17",
+              "value": 77118,
+              "timestamp": 1571402025370
+            },
+            {
+              "id": "468d0974-2a94-47de-a6c1-40778969b991",
+              "value": 76099,
+              "timestamp": 1550456415013
+            },
+            {
+              "id": "25a23331-f016-4b9a-8fe9-558a73722368",
+              "value": 28883,
+              "timestamp": 1558996632686
+            }
+          ]
+        },
+        {
+          "id": "49ffd686-69ae-4462-aff4-9b504a0ae07a",
+          "name": "Rowan46",
+          "data": [
+            {
+              "id": "b8fd1a2a-dcf1-4732-806a-ab998a83f1fe",
+              "value": 37911,
+              "timestamp": 1578498753448
+            },
+            {
+              "id": "68e947c5-3dad-49eb-a83a-6cf84c111934",
+              "value": 72470,
+              "timestamp": 1569614246804
+            },
+            {
+              "id": "f138933b-75d9-42e1-bfec-732f0142a677",
+              "value": 8696,
+              "timestamp": 1550181362786
+            },
+            {
+              "id": "765ad29a-0980-41de-bb6c-993b9887ef10",
+              "value": 68046,
+              "timestamp": 1561026787045
+            },
+            {
+              "id": "8dd65181-4f69-48e9-9d2a-4bb9e37da67a",
+              "value": 73365,
+              "timestamp": 1569267916986
+            },
+            {
+              "id": "000ec0ec-5511-40fb-b14d-7d651d4e5019",
+              "value": 69604,
+              "timestamp": 1554225118291
+            },
+            {
+              "id": "ca8505f5-5a66-4545-961a-b47296a32709",
+              "value": 37482,
+              "timestamp": 1565488827081
+            },
+            {
+              "id": "ae9154d3-5bd2-4aab-8564-d137f973be91",
+              "value": 56572,
+              "timestamp": 1568010935236
+            },
+            {
+              "id": "5bee7486-f93a-4db2-84f3-c09894bd8e26",
+              "value": 90898,
+              "timestamp": 1548796934371
+            },
+            {
+              "id": "9d8606dc-223d-43a8-ab4f-78d84af8060e",
+              "value": 16454,
+              "timestamp": 1551721361694
+            }
+          ]
+        },
+        {
+          "id": "32798577-ad48-4bc3-90d8-ea4c3c843146",
+          "name": "Gardner73",
+          "data": [
+            {
+              "id": "a1709e3c-a1d3-4c6f-98de-d05bad9e7f61",
+              "value": 99747,
+              "timestamp": 1562919826528
+            },
+            {
+              "id": "602ca83c-29db-490e-8638-f91789392cb5",
+              "value": 31136,
+              "timestamp": 1576140338192
+            },
+            {
+              "id": "1ef78bdf-5334-4892-bdbd-77d300eb282c",
+              "value": 77707,
+              "timestamp": 1559203774335
+            },
+            {
+              "id": "a1bc8d06-85c7-471b-9a6d-8f95d76e17c4",
+              "value": 10815,
+              "timestamp": 1557264007140
+            },
+            {
+              "id": "ca4c18f3-0c00-419d-8efc-30a10c0e63c3",
+              "value": 60804,
+              "timestamp": 1568286724309
+            },
+            {
+              "id": "4cd0d534-9f46-4222-b413-701f829fc34c",
+              "value": 87026,
+              "timestamp": 1574223027347
+            },
+            {
+              "id": "16f5d44f-b8a4-4da9-a8c3-aae8538cb38c",
+              "value": 91506,
+              "timestamp": 1572574896270
+            },
+            {
+              "id": "a768b405-8466-4b81-9bc9-e16a69a87a40",
+              "value": 93893,
+              "timestamp": 1549940112400
+            },
+            {
+              "id": "aa27da45-2412-4eb1-ba95-88da35a5ebeb",
+              "value": 48283,
+              "timestamp": 1550229116156
+            },
+            {
+              "id": "360f6b58-2136-4b97-afbd-958ab7363f0c",
+              "value": 98638,
+              "timestamp": 1561778684610
+            }
+          ]
+        },
+        {
+          "id": "644a993e-5ba5-41aa-9e7e-188be65607d4",
+          "name": "Andres22",
+          "data": [
+            {
+              "id": "d2a09a6e-30e3-4f61-afc3-029e67d4f80e",
+              "value": 24688,
+              "timestamp": 1556366210304
+            },
+            {
+              "id": "3776a579-387a-422e-96de-68c480e1672b",
+              "value": 4686,
+              "timestamp": 1551417796140
+            },
+            {
+              "id": "e8caa60f-9be2-4091-b867-5ef18296d65c",
+              "value": 94061,
+              "timestamp": 1558100562824
+            },
+            {
+              "id": "d5e29485-f8a8-4a5f-a4e6-38beab0da84e",
+              "value": 51647,
+              "timestamp": 1567371710500
+            },
+            {
+              "id": "fafff4f4-5cdf-4f63-8c5a-2815612179a7",
+              "value": 17218,
+              "timestamp": 1569107117124
+            },
+            {
+              "id": "2fd1a395-7378-4e1c-9f86-e9bea9be41d4",
+              "value": 69852,
+              "timestamp": 1556643091632
+            },
+            {
+              "id": "856168fb-e2cc-4a46-b559-f9aec64fa972",
+              "value": 69738,
+              "timestamp": 1556365460079
+            },
+            {
+              "id": "1ee13482-c80c-4afe-b9d9-1dc0f4856795",
+              "value": 1432,
+              "timestamp": 1552632463218
+            },
+            {
+              "id": "1fc44bf0-4826-4f3b-b47d-03a285d8618a",
+              "value": 96636,
+              "timestamp": 1561846787085
+            },
+            {
+              "id": "b5ac4e94-6e35-4d7e-a8a0-407eafb49040",
+              "value": 45310,
+              "timestamp": 1552030781982
+            }
+          ]
+        },
+        {
+          "id": "b635f12c-a688-4c53-855a-894f0bb6b4c5",
+          "name": "Mario_Von66",
+          "data": [
+            {
+              "id": "122cebff-64c4-4a52-8fcd-6c8c3d6ba439",
+              "value": 91864,
+              "timestamp": 1577523630686
+            },
+            {
+              "id": "4c94c397-9384-4804-b4cd-e70da081f41f",
+              "value": 87298,
+              "timestamp": 1556722191929
+            },
+            {
+              "id": "bfc77284-5e89-45f2-9401-ff8437655837",
+              "value": 42569,
+              "timestamp": 1569010359765
+            },
+            {
+              "id": "9d4968a0-4a9a-4ebe-82a9-de0a8f10514b",
+              "value": 39666,
+              "timestamp": 1573530711614
+            },
+            {
+              "id": "39f7d4f7-7f8c-4274-ad20-b6038f614f9c",
+              "value": 67714,
+              "timestamp": 1560851647769
+            },
+            {
+              "id": "f5b9a415-c653-4df9-b1d7-24d409af8aa7",
+              "value": 81373,
+              "timestamp": 1572722442629
+            },
+            {
+              "id": "65d9197e-7ab5-4570-b229-7c7fd7e7faa8",
+              "value": 54405,
+              "timestamp": 1573215498951
+            },
+            {
+              "id": "ea477831-ed47-4a92-a0c7-cd9a86177577",
+              "value": 61340,
+              "timestamp": 1576786685014
+            },
+            {
+              "id": "81ab7967-670e-45a9-8ab6-2c613344ca44",
+              "value": 90631,
+              "timestamp": 1552638326381
+            },
+            {
+              "id": "f147c8eb-0316-45ee-ad48-bc67cd2b8721",
+              "value": 42461,
+              "timestamp": 1570659528967
+            }
+          ]
+        },
+        {
+          "id": "284b1e8b-01a4-4f5d-a89d-019905006bad",
+          "name": "Amalia.Reichel29",
+          "data": [
+            {
+              "id": "5fc8754f-05ea-45cc-915e-7662f32883e1",
+              "value": 8795,
+              "timestamp": 1563923471832
+            },
+            {
+              "id": "a20640ce-a176-4270-92c4-9815ffe1de85",
+              "value": 35215,
+              "timestamp": 1566815565942
+            },
+            {
+              "id": "c6539454-7c03-4ee7-9bfb-3463097396a2",
+              "value": 16417,
+              "timestamp": 1566175056915
+            },
+            {
+              "id": "72e29c8d-9b49-420a-8fa9-bcd037ed6049",
+              "value": 91783,
+              "timestamp": 1568549385959
+            },
+            {
+              "id": "c0ec5537-1b12-43fb-9bc2-5f40eb63a678",
+              "value": 60082,
+              "timestamp": 1573435211812
+            },
+            {
+              "id": "0f6702c1-18e1-4fd3-bee2-a944b48e9a36",
+              "value": 92117,
+              "timestamp": 1560300772722
+            },
+            {
+              "id": "2b4edede-f09c-40e0-b94a-3f52a24003c7",
+              "value": 52276,
+              "timestamp": 1577055248067
+            },
+            {
+              "id": "1ff74e90-7ae2-4c93-a291-dc1a2e4dce9a",
+              "value": 25561,
+              "timestamp": 1553806030984
+            },
+            {
+              "id": "856903fa-bf14-4838-998a-c1a24b820f7e",
+              "value": 62166,
+              "timestamp": 1553044894161
+            },
+            {
+              "id": "709f3438-9745-44e4-a53e-725064ae7dc5",
+              "value": 49134,
+              "timestamp": 1551352267044
+            }
+          ]
+        },
+        {
+          "id": "3dd7a6a6-2117-40ad-a248-c4572df7fe6c",
+          "name": "Mina.Purdy56",
+          "data": [
+            {
+              "id": "8a2d99f5-d319-4641-9bbe-5c5799bac601",
+              "value": 99428,
+              "timestamp": 1558338025580
+            },
+            {
+              "id": "3deadb13-c7d0-426a-bc3b-f81e88fa4f46",
+              "value": 34078,
+              "timestamp": 1574772399852
+            },
+            {
+              "id": "21ba59cc-5143-416d-aced-f081937a45d5",
+              "value": 24914,
+              "timestamp": 1568836420944
+            },
+            {
+              "id": "da1ec1e8-4554-46f7-b6de-6c6de9e458da",
+              "value": 66902,
+              "timestamp": 1568631951563
+            },
+            {
+              "id": "fb1779a0-e5af-4bc2-846f-38b4f32d9664",
+              "value": 9795,
+              "timestamp": 1572377898011
+            },
+            {
+              "id": "150c4d5a-58cd-41cb-8ae7-20679dcc54bb",
+              "value": 18602,
+              "timestamp": 1577560455747
+            },
+            {
+              "id": "0688656d-c813-4634-843c-659f7c614c43",
+              "value": 83362,
+              "timestamp": 1576015169515
+            },
+            {
+              "id": "2bc62a94-dafd-4d5a-8915-b45ee5bc2eee",
+              "value": 17940,
+              "timestamp": 1553189473161
+            },
+            {
+              "id": "837ab9f5-bcba-4c23-9b45-b3e059718899",
+              "value": 82244,
+              "timestamp": 1555860925108
+            },
+            {
+              "id": "92c73eaf-19f3-4102-988b-7354755f8918",
+              "value": 94196,
+              "timestamp": 1555983578596
+            }
+          ]
+        },
+        {
+          "id": "a03e82d8-5421-407e-92da-0debcd1b0bf8",
+          "name": "Ona.Weber34",
+          "data": [
+            {
+              "id": "b12fed8f-2ff8-4123-9bfd-719497ed3eec",
+              "value": 44831,
+              "timestamp": 1570826402863
+            },
+            {
+              "id": "83f65a6f-533a-43e5-8b4c-6d6ff8e948de",
+              "value": 95423,
+              "timestamp": 1576719490342
+            },
+            {
+              "id": "37b40adf-61a6-4dfa-8975-897485ba66d8",
+              "value": 31507,
+              "timestamp": 1552672996463
+            },
+            {
+              "id": "a357fb77-0d69-4c41-95b2-244a004445f2",
+              "value": 58232,
+              "timestamp": 1551677117386
+            },
+            {
+              "id": "3eaec1b8-ea4d-4bc1-953f-4698a810906f",
+              "value": 82512,
+              "timestamp": 1579204762495
+            },
+            {
+              "id": "dbec04de-9d3f-4c71-a9ab-57cf76d187ac",
+              "value": 46856,
+              "timestamp": 1553048998630
+            },
+            {
+              "id": "c80687b4-3d9a-4ae1-a75a-55fb2bb3bce2",
+              "value": 67167,
+              "timestamp": 1568910135240
+            },
+            {
+              "id": "009b8978-2760-4682-88cc-9bbca7a02af5",
+              "value": 29827,
+              "timestamp": 1565799672014
+            },
+            {
+              "id": "3c06856c-5a33-4039-ada3-53e567cc9b4c",
+              "value": 85529,
+              "timestamp": 1567577404296
+            },
+            {
+              "id": "95f3427b-bd11-4dc1-86cb-b582a3711d92",
+              "value": 57419,
+              "timestamp": 1560771400590
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "65e0a819-0a43-4122-8f0c-a1f05f33af76",
+      "name": "Mozell.Lind",
+      "lastKnownPosition": {
+        "latitude": 50.4249879,
+        "longitude": 30.531965
+      },
+      "sensors": [
+        {
+          "id": "a7936ef3-926a-4fdc-b940-b2f1909f33b6",
+          "name": "Crawford.Bradtke",
+          "data": [
+            {
+              "id": "e5d4fefd-0c40-4761-a47c-0ad43b977cb8",
+              "value": 53224,
+              "timestamp": 1565788464153
+            },
+            {
+              "id": "69a3a723-546b-4da9-909d-8e86d2f63490",
+              "value": 39169,
+              "timestamp": 1577458732125
+            },
+            {
+              "id": "f0546314-3ce3-4a92-9bc7-69dbdd6a6c52",
+              "value": 54210,
+              "timestamp": 1548947919304
+            },
+            {
+              "id": "1a1ed746-bfd7-46a8-a2a7-8e9cdb50f3f3",
+              "value": 22209,
+              "timestamp": 1551771039723
+            },
+            {
+              "id": "2d9061b9-356c-4592-821d-a15e68f65dd4",
+              "value": 67188,
+              "timestamp": 1576808204353
+            },
+            {
+              "id": "923a972b-2d56-4162-9a07-2da6590cb43f",
+              "value": 7384,
+              "timestamp": 1564373912454
+            },
+            {
+              "id": "4e6ab1b0-5570-4fdc-a902-aa8ec0e56891",
+              "value": 94679,
+              "timestamp": 1576772141706
+            },
+            {
+              "id": "7eed06d3-72d5-4060-b51f-0fd825dd695a",
+              "value": 50357,
+              "timestamp": 1562711424062
+            },
+            {
+              "id": "16e5f275-3ede-46da-b7b0-a71e0775a3ab",
+              "value": 30329,
+              "timestamp": 1573834349119
+            },
+            {
+              "id": "da41f7a9-d68e-4c28-9987-7986f5674dfb",
+              "value": 38532,
+              "timestamp": 1560346108831
+            }
+          ]
+        },
+        {
+          "id": "59555d7e-31ea-45d8-8c03-98bbf904820a",
+          "name": "Rosalia60",
+          "data": [
+            {
+              "id": "ceda766a-89ac-4ad5-938d-c15bc1b109ec",
+              "value": 90854,
+              "timestamp": 1549747003981
+            },
+            {
+              "id": "c540d679-d2c5-4da6-aa33-7c0ec0f5f94b",
+              "value": 3256,
+              "timestamp": 1564041990887
+            },
+            {
+              "id": "8542fe4b-d262-403e-ae0c-8fca08887947",
+              "value": 75714,
+              "timestamp": 1579615681660
+            },
+            {
+              "id": "08712f9e-af34-4bd8-9755-47a7369bc0e3",
+              "value": 12758,
+              "timestamp": 1569702854679
+            },
+            {
+              "id": "2faa4fb7-1cd9-45aa-94dd-9c90f9067efc",
+              "value": 20141,
+              "timestamp": 1568814415104
+            },
+            {
+              "id": "b9c6d6a3-430c-4050-95cd-8227a18ec20c",
+              "value": 37503,
+              "timestamp": 1552406553726
+            },
+            {
+              "id": "ddd03bed-92bb-4656-8e7b-8b49aea2f1bc",
+              "value": 47337,
+              "timestamp": 1552695081179
+            },
+            {
+              "id": "280fc1cf-3161-4e88-be98-f6b038b11634",
+              "value": 37419,
+              "timestamp": 1571828005207
+            },
+            {
+              "id": "939f3acd-6e83-4f2f-b28e-b97d88c9a670",
+              "value": 9724,
+              "timestamp": 1566984005152
+            },
+            {
+              "id": "231cf528-7cbd-4533-9aa1-8ccac72c8487",
+              "value": 91862,
+              "timestamp": 1573716853367
+            }
+          ]
+        },
+        {
+          "id": "4a44c1b1-d2c4-4777-aced-2331ff10a2f2",
+          "name": "Alphonso27",
+          "data": [
+            {
+              "id": "15566524-a569-4201-b46a-ed59a5a7ab81",
+              "value": 27360,
+              "timestamp": 1567707508757
+            },
+            {
+              "id": "fc4f96f8-16d2-445c-80d0-feceeff2302c",
+              "value": 19489,
+              "timestamp": 1550264067936
+            },
+            {
+              "id": "7d6d03c7-6d3e-499c-9421-20c7ccaffd89",
+              "value": 59504,
+              "timestamp": 1571691996324
+            },
+            {
+              "id": "2e9f51ee-76eb-4d25-b6e6-ae56d68ebf9f",
+              "value": 22887,
+              "timestamp": 1572689985283
+            },
+            {
+              "id": "6f60e9a1-46d3-43a6-aa49-f97522483fd6",
+              "value": 68315,
+              "timestamp": 1578349357980
+            },
+            {
+              "id": "c32fdf1d-5e6f-4ccc-8ab9-14f7b70ba501",
+              "value": 42643,
+              "timestamp": 1556578303958
+            },
+            {
+              "id": "54b0c52d-b41a-4538-b3e5-8db61aceb4e8",
+              "value": 43717,
+              "timestamp": 1552832018145
+            },
+            {
+              "id": "dbd4e6e1-7acf-420f-bb4a-d67975fff08a",
+              "value": 1553,
+              "timestamp": 1565714208080
+            },
+            {
+              "id": "d92f89ad-94a6-4d7f-bf8c-180e51ae0355",
+              "value": 46849,
+              "timestamp": 1551711219501
+            },
+            {
+              "id": "89d77771-910f-4bf8-8e23-147e52b6d11d",
+              "value": 46816,
+              "timestamp": 1556540402370
+            }
+          ]
+        },
+        {
+          "id": "dd50a932-6527-4274-9c24-188766909273",
+          "name": "Weston_Kub50",
+          "data": [
+            {
+              "id": "5da23a5a-e4ff-4806-a031-2e72fed9ec80",
+              "value": 94915,
+              "timestamp": 1550856972713
+            },
+            {
+              "id": "86f6fab7-4c36-48cd-bd90-bc7d022274dc",
+              "value": 96129,
+              "timestamp": 1562163671323
+            },
+            {
+              "id": "3ca363be-e820-4e19-bda6-3556bcf6f13d",
+              "value": 78249,
+              "timestamp": 1555459829238
+            },
+            {
+              "id": "4101e860-8fb5-4dd4-8d9b-adac36c9aed3",
+              "value": 83681,
+              "timestamp": 1549977820976
+            },
+            {
+              "id": "49ed9fe0-6f4f-4ca4-94f1-4d963c691d4c",
+              "value": 76280,
+              "timestamp": 1569489550180
+            },
+            {
+              "id": "3a0229ec-c676-4900-8fc0-e96b9363c64a",
+              "value": 80027,
+              "timestamp": 1552888215437
+            },
+            {
+              "id": "f7778851-17ad-458a-b858-32da102c8807",
+              "value": 60755,
+              "timestamp": 1572533286380
+            },
+            {
+              "id": "91a1e834-ad2c-46d8-abb9-74895bc1c49f",
+              "value": 46989,
+              "timestamp": 1566389542272
+            },
+            {
+              "id": "102fcbea-22d3-4124-94ec-9763fca9d05c",
+              "value": 3165,
+              "timestamp": 1550682065124
+            },
+            {
+              "id": "9e44c7fd-8a86-495d-beb9-55f56abfb23f",
+              "value": 77264,
+              "timestamp": 1560337189751
+            }
+          ]
+        },
+        {
+          "id": "ef8c2ab2-6ced-4d4f-8d59-02c4695024c7",
+          "name": "Jeanie_West75",
+          "data": [
+            {
+              "id": "0950351b-906c-4f91-9680-9ce393100612",
+              "value": 65595,
+              "timestamp": 1567032110164
+            },
+            {
+              "id": "96100465-cb46-4f74-ba16-3dc139cafc1f",
+              "value": 63577,
+              "timestamp": 1552044801843
+            },
+            {
+              "id": "3e7f8663-e700-400b-8d7f-d055521b22b6",
+              "value": 70974,
+              "timestamp": 1565786935795
+            },
+            {
+              "id": "61be41d5-0ef5-4cbd-91c3-0bb27655229b",
+              "value": 22565,
+              "timestamp": 1579262396445
+            },
+            {
+              "id": "c8bc6b5c-84c7-4e81-99b2-30ce6c092ddd",
+              "value": 43957,
+              "timestamp": 1563911763981
+            },
+            {
+              "id": "862cd93e-edf1-4746-aceb-fa126bbf34e0",
+              "value": 88622,
+              "timestamp": 1559810884166
+            },
+            {
+              "id": "9fad2778-64fb-4816-aa83-e85537a4aa73",
+              "value": 58920,
+              "timestamp": 1567977650201
+            },
+            {
+              "id": "4cf47196-3cc8-424d-9cd0-30d05a3bd465",
+              "value": 69994,
+              "timestamp": 1571639289467
+            },
+            {
+              "id": "8a4f2300-91d6-4524-b0d7-b140aaddee66",
+              "value": 24919,
+              "timestamp": 1578990288021
+            },
+            {
+              "id": "1a542f8f-80f4-4d96-8e5a-bd7cd8181c12",
+              "value": 74348,
+              "timestamp": 1579243768580
+            }
+          ]
+        },
+        {
+          "id": "7a2e632c-2719-43b4-af52-2665a4c4dfa3",
+          "name": "Frederik_Schowalter",
+          "data": [
+            {
+              "id": "2fe012c1-7e58-47c8-af35-725c48d11bec",
+              "value": 48217,
+              "timestamp": 1552242947293
+            },
+            {
+              "id": "a0a8048b-beb6-47a7-952a-c540d1319504",
+              "value": 98420,
+              "timestamp": 1561650550264
+            },
+            {
+              "id": "411d4e76-c7fc-4d67-9c8d-b9968a6eb277",
+              "value": 93684,
+              "timestamp": 1575596487562
+            },
+            {
+              "id": "caab3a0b-4155-4ebc-806c-d694009327c7",
+              "value": 20957,
+              "timestamp": 1554109128959
+            },
+            {
+              "id": "04c20cf6-84ee-472d-889c-11795380f470",
+              "value": 53640,
+              "timestamp": 1555167705325
+            },
+            {
+              "id": "d6ffa6a8-0275-464b-9b51-9fe522340bc2",
+              "value": 17408,
+              "timestamp": 1558503235655
+            },
+            {
+              "id": "3df7acff-e2d5-49f7-8f45-67b8f156c178",
+              "value": 24931,
+              "timestamp": 1569675311911
+            },
+            {
+              "id": "b1063594-daa3-458f-84ac-36ff8bca08ce",
+              "value": 95808,
+              "timestamp": 1576242924052
+            },
+            {
+              "id": "541b8757-59bf-4920-a46a-d173be95b304",
+              "value": 62601,
+              "timestamp": 1563828658178
+            },
+            {
+              "id": "a740f784-33b3-484f-b428-5b1fd4e42215",
+              "value": 33037,
+              "timestamp": 1579044196017
+            }
+          ]
+        },
+        {
+          "id": "9452160e-d288-4a4f-865d-975968fa9a12",
+          "name": "Nora_MacGyver",
+          "data": [
+            {
+              "id": "021fe32e-a8d4-4466-a74a-6db0d1cf8792",
+              "value": 28608,
+              "timestamp": 1572941977140
+            },
+            {
+              "id": "847d50f6-7f61-41ca-ad82-78050ca9ad6a",
+              "value": 42300,
+              "timestamp": 1564382282003
+            },
+            {
+              "id": "29da4b3b-d7f8-494f-a59a-163a1da967f6",
+              "value": 98511,
+              "timestamp": 1562194291866
+            },
+            {
+              "id": "6d089123-59fe-4985-a893-0bf919135780",
+              "value": 85959,
+              "timestamp": 1561008912592
+            },
+            {
+              "id": "bd9992f6-8efd-48b2-aa03-70f991d35b82",
+              "value": 58060,
+              "timestamp": 1556703952419
+            },
+            {
+              "id": "49154c2a-e390-4a48-89d0-75b6c8ed9d2c",
+              "value": 59493,
+              "timestamp": 1570448568049
+            },
+            {
+              "id": "2ee9477c-ddcd-452a-a691-8df3a22c47a7",
+              "value": 2587,
+              "timestamp": 1567005209995
+            },
+            {
+              "id": "5c9a2bcd-d0d9-4dd7-9980-a26d8d08e82b",
+              "value": 99196,
+              "timestamp": 1562946812629
+            },
+            {
+              "id": "85290245-da1f-40cc-abe8-b574a5303015",
+              "value": 2479,
+              "timestamp": 1569494005109
+            },
+            {
+              "id": "48361069-dc36-4f2d-82e3-a2cb6078c604",
+              "value": 9327,
+              "timestamp": 1574657387233
+            }
+          ]
+        },
+        {
+          "id": "2c83bf8c-5156-4dfb-9756-988f6af7ad92",
+          "name": "Colby.Reichel",
+          "data": [
+            {
+              "id": "c855c3a9-4e85-44b6-a69c-33801ffb78cd",
+              "value": 20065,
+              "timestamp": 1548778225158
+            },
+            {
+              "id": "b085cb42-f29f-476f-aff6-fcd718e6c973",
+              "value": 25244,
+              "timestamp": 1554950750868
+            },
+            {
+              "id": "1796eb00-757f-483d-a2f0-da03e8b60ebd",
+              "value": 21837,
+              "timestamp": 1558359950822
+            },
+            {
+              "id": "66604320-f9ac-4578-9981-5dc853c26f49",
+              "value": 26389,
+              "timestamp": 1567435223033
+            },
+            {
+              "id": "2d40c418-b704-42a5-9ece-ab96c18b29ff",
+              "value": 51791,
+              "timestamp": 1561088600219
+            },
+            {
+              "id": "c2101b80-3863-4d3c-9148-26e49f7b3b33",
+              "value": 29559,
+              "timestamp": 1570202841316
+            },
+            {
+              "id": "b5c09621-8104-4731-beb8-0599cbb47027",
+              "value": 15431,
+              "timestamp": 1556127303520
+            },
+            {
+              "id": "374192b5-6f08-4106-b03b-e6d3677d4cdc",
+              "value": 22788,
+              "timestamp": 1571025328717
+            },
+            {
+              "id": "610a5c42-3558-45cd-9048-847810f1fde0",
+              "value": 38338,
+              "timestamp": 1557254897808
+            },
+            {
+              "id": "61bb5818-208c-4a1a-b973-5acbaa94d3a3",
+              "value": 44368,
+              "timestamp": 1573648041425
+            }
+          ]
+        },
+        {
+          "id": "144dbd29-db16-4e3c-a885-3584997f4b6f",
+          "name": "Darien_Jakubowski12",
+          "data": [
+            {
+              "id": "811da792-defe-42e9-ade4-9e8b051f52ed",
+              "value": 97622,
+              "timestamp": 1563819697268
+            },
+            {
+              "id": "e5e2a2a1-a0ed-4c78-81e5-bf9a807bc59e",
+              "value": 10486,
+              "timestamp": 1565473851465
+            },
+            {
+              "id": "ebced556-92cb-46f3-a4ec-567af8f9cd03",
+              "value": 522,
+              "timestamp": 1549360592352
+            },
+            {
+              "id": "d97a9665-cd71-4cdb-ad55-157f31c375a5",
+              "value": 74481,
+              "timestamp": 1552127674637
+            },
+            {
+              "id": "57c86da3-bd6e-4897-88f7-008cf1707bdf",
+              "value": 88835,
+              "timestamp": 1549711278570
+            },
+            {
+              "id": "0d4f2618-ebba-4891-81f8-5461716e6f38",
+              "value": 16639,
+              "timestamp": 1567650357676
+            },
+            {
+              "id": "bde4d3e9-7495-495b-9ad3-ef5a9e71d3d7",
+              "value": 13600,
+              "timestamp": 1549076270241
+            },
+            {
+              "id": "7e1f7bed-aff0-4a7a-9680-3c78fe188a2f",
+              "value": 31515,
+              "timestamp": 1559934813002
+            },
+            {
+              "id": "823d8822-a256-4b39-b486-5897d4567025",
+              "value": 97961,
+              "timestamp": 1566755539939
+            },
+            {
+              "id": "4999fda8-daef-43c1-a16d-6c2df2a2fc63",
+              "value": 55597,
+              "timestamp": 1557293439483
+            }
+          ]
+        },
+        {
+          "id": "8fc827bf-8798-4906-9a32-8bb3e020b086",
+          "name": "Jo.Ortiz9",
+          "data": [
+            {
+              "id": "5cdd32fd-d285-4b51-bebb-b46e7d46b92a",
+              "value": 59650,
+              "timestamp": 1549866115270
+            },
+            {
+              "id": "4cd436f4-fe38-4c20-b940-5003faef2aba",
+              "value": 49276,
+              "timestamp": 1550772874698
+            },
+            {
+              "id": "ab27bf6d-c1b9-47ec-8b03-1cc528fbd207",
+              "value": 68584,
+              "timestamp": 1566918428227
+            },
+            {
+              "id": "a77ad3ab-9de8-4b6d-b567-631c8ad402c0",
+              "value": 33871,
+              "timestamp": 1573153894713
+            },
+            {
+              "id": "94c9634d-88cc-4233-8350-334f3ec606d0",
+              "value": 67965,
+              "timestamp": 1555467549053
+            },
+            {
+              "id": "394b077d-4fda-4a4c-a499-0d5f4435b1e5",
+              "value": 7204,
+              "timestamp": 1560855541142
+            },
+            {
+              "id": "cade826b-02a8-4fce-a373-db3696a0839b",
+              "value": 92184,
+              "timestamp": 1563940762703
+            },
+            {
+              "id": "65bddd4c-ce8e-4d65-8a5f-062773823462",
+              "value": 38849,
+              "timestamp": 1574104762186
+            },
+            {
+              "id": "f9830bad-47f7-4358-85bc-e10da3cfb32f",
+              "value": 22037,
+              "timestamp": 1556709193024
+            },
+            {
+              "id": "97c26eb2-8e16-4829-9af3-b8aaf57f1364",
+              "value": 94799,
+              "timestamp": 1556814476042
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4e0302f6-fe85-4ca5-a44b-938e6bc975a9",
+      "name": "Donavon.Bernier68",
+      "lastKnownPosition": {
+        "latitude": 50.4249879,
+        "longitude": 30.531965
+      },
+      "sensors": [
+        {
+          "id": "0d8e6f39-ffb3-44c4-aca4-a3049a8a26b2",
+          "name": "Kiara17",
+          "data": [
+            {
+              "id": "a1101fb1-ea77-4d0f-a969-2051d1f855e3",
+              "value": 33792,
+              "timestamp": 1548964505318
+            },
+            {
+              "id": "4cb15558-d667-4a0c-8675-b4a753440018",
+              "value": 12694,
+              "timestamp": 1558678846103
+            },
+            {
+              "id": "033c4caa-7f0b-448c-9ef0-533a1805d8a4",
+              "value": 24781,
+              "timestamp": 1578564924439
+            },
+            {
+              "id": "fde71d30-2c79-4715-96c0-2c27d78be9e5",
+              "value": 61716,
+              "timestamp": 1562699259754
+            },
+            {
+              "id": "75296394-1411-4471-8120-27b60fb89471",
+              "value": 54965,
+              "timestamp": 1564430639035
+            },
+            {
+              "id": "4c561702-2bd5-4f23-b2db-0c6edb4afb44",
+              "value": 68934,
+              "timestamp": 1576813312902
+            },
+            {
+              "id": "e9c76157-8b08-49e9-b7c2-921013d19af7",
+              "value": 93682,
+              "timestamp": 1576216262450
+            },
+            {
+              "id": "877b30d3-1a26-4975-a83b-ed12beae4a35",
+              "value": 52497,
+              "timestamp": 1560246201549
+            },
+            {
+              "id": "a8db26be-cc90-4dfb-a519-751ce4601884",
+              "value": 40311,
+              "timestamp": 1553854849268
+            },
+            {
+              "id": "8081cf30-61f0-4c6e-8522-62b5679fe5de",
+              "value": 34866,
+              "timestamp": 1573771354487
+            }
+          ]
+        },
+        {
+          "id": "b9bf2c90-25d4-4a6e-9c13-f16893dd5c9e",
+          "name": "Dante.Terry59",
+          "data": [
+            {
+              "id": "5e762965-be6e-4a9d-a756-e21712e8c3d5",
+              "value": 60508,
+              "timestamp": 1552000601789
+            },
+            {
+              "id": "b6b1f1e6-c6a9-47d6-9e38-cbd4285643c4",
+              "value": 94625,
+              "timestamp": 1579072684763
+            },
+            {
+              "id": "4981f2df-8f86-4097-a377-db36d9de6158",
+              "value": 36003,
+              "timestamp": 1573814142313
+            },
+            {
+              "id": "2c576347-494c-4a9a-a70e-d592158b4ffb",
+              "value": 17277,
+              "timestamp": 1574093456602
+            },
+            {
+              "id": "5f50330a-cfdc-4aa2-a5ca-677e52dabf39",
+              "value": 61303,
+              "timestamp": 1566518063718
+            },
+            {
+              "id": "74af7550-91d4-451f-b95b-1b8c5e7362e8",
+              "value": 31902,
+              "timestamp": 1558035268390
+            },
+            {
+              "id": "a78d3de5-2c9e-4aea-aa46-b19e453ede00",
+              "value": 75809,
+              "timestamp": 1559417403134
+            },
+            {
+              "id": "e6549806-f506-441b-b272-32990c69bec5",
+              "value": 12707,
+              "timestamp": 1576629657469
+            },
+            {
+              "id": "1ae348c9-27e2-402b-bc32-b3254d265199",
+              "value": 75989,
+              "timestamp": 1551151090430
+            },
+            {
+              "id": "71c0ffa5-72a3-4841-9b14-7282de6bd2c0",
+              "value": 79524,
+              "timestamp": 1565944724075
+            }
+          ]
+        },
+        {
+          "id": "b2ba3e15-3f5a-48c5-91f7-52bc8faa3fc7",
+          "name": "Gerardo48",
+          "data": [
+            {
+              "id": "79a54f15-65cc-4653-9175-dbf68899a5ec",
+              "value": 28156,
+              "timestamp": 1553504465292
+            },
+            {
+              "id": "3af06dc3-b3d7-4d8b-a62c-bf231bc56c11",
+              "value": 8143,
+              "timestamp": 1575987963501
+            },
+            {
+              "id": "9b8dd0df-a9b0-43d8-a604-98bf39dbf630",
+              "value": 24089,
+              "timestamp": 1578867663626
+            },
+            {
+              "id": "8fd47aaf-15a3-4241-ac58-42b746f35b2c",
+              "value": 36515,
+              "timestamp": 1554998136767
+            },
+            {
+              "id": "5fd22bdd-ef26-4126-b242-fcdf121c5026",
+              "value": 91952,
+              "timestamp": 1577149936130
+            },
+            {
+              "id": "e36a2b13-8ea0-4d23-9781-76460a907077",
+              "value": 71286,
+              "timestamp": 1577706045275
+            },
+            {
+              "id": "bbb4f468-713e-4f1e-ba33-df7a364f42eb",
+              "value": 79055,
+              "timestamp": 1556616324526
+            },
+            {
+              "id": "3f4dc374-9db2-429b-bf9b-a0f21d6fd902",
+              "value": 93482,
+              "timestamp": 1573149749243
+            },
+            {
+              "id": "0bb30457-bdb9-4a36-ada4-1ac0b244ac31",
+              "value": 25261,
+              "timestamp": 1565185103987
+            },
+            {
+              "id": "3c6dc92b-40ca-49af-af47-19ddbfb57cf2",
+              "value": 80878,
+              "timestamp": 1552927672611
+            }
+          ]
+        },
+        {
+          "id": "1510999e-d212-447e-9917-c8d4fafd2fdc",
+          "name": "Kira76",
+          "data": [
+            {
+              "id": "2332ff27-3587-483e-b385-88078793324b",
+              "value": 16635,
+              "timestamp": 1559568126231
+            },
+            {
+              "id": "3d8231c1-3a7b-4d3f-b6eb-0280c030da32",
+              "value": 39834,
+              "timestamp": 1559930451251
+            },
+            {
+              "id": "cf0b767b-f1dc-4030-8c1f-8482dd07cb63",
+              "value": 86827,
+              "timestamp": 1578568134197
+            },
+            {
+              "id": "79f672e5-18d9-4824-a68b-c58566548910",
+              "value": 65348,
+              "timestamp": 1568453256962
+            },
+            {
+              "id": "2b42d70f-64bc-497c-96c0-3de90cb32781",
+              "value": 36192,
+              "timestamp": 1577968416189
+            },
+            {
+              "id": "6111de44-b191-4a3d-b313-65677785f8c0",
+              "value": 72497,
+              "timestamp": 1554291327228
+            },
+            {
+              "id": "8ffccf0a-185a-40a3-95a3-de8dc8f63056",
+              "value": 56854,
+              "timestamp": 1563971256844
+            },
+            {
+              "id": "912d15e4-96dc-4a4f-8e6e-d221f5985366",
+              "value": 9190,
+              "timestamp": 1559087818273
+            },
+            {
+              "id": "e7b2cee6-a291-464c-a3e1-c7017b89aab6",
+              "value": 43846,
+              "timestamp": 1570933347010
+            },
+            {
+              "id": "e0704410-839d-4bd1-800a-828cf5206414",
+              "value": 18763,
+              "timestamp": 1558497367588
+            }
+          ]
+        },
+        {
+          "id": "7405e1f4-6c3f-4ab8-be11-e27308da2a06",
+          "name": "Landen25",
+          "data": [
+            {
+              "id": "7b86433a-49e4-4905-9be9-71d659ccd29e",
+              "value": 76087,
+              "timestamp": 1574459268561
+            },
+            {
+              "id": "b386b74d-ed82-418a-8e8d-2073fcdb7ba6",
+              "value": 8662,
+              "timestamp": 1567325863757
+            },
+            {
+              "id": "8e3e3642-0703-4446-98ca-60dea3dc5ac9",
+              "value": 10120,
+              "timestamp": 1565046021602
+            },
+            {
+              "id": "6f96938f-1587-45e8-adb1-d5574781deb9",
+              "value": 32280,
+              "timestamp": 1565183652769
+            },
+            {
+              "id": "4dbab024-f41e-49b6-b864-9a2fad40fc01",
+              "value": 55111,
+              "timestamp": 1554846251227
+            },
+            {
+              "id": "3c54b695-7484-42f8-8409-5016cd569bd5",
+              "value": 8534,
+              "timestamp": 1572325910762
+            },
+            {
+              "id": "de2c0596-199b-4d16-96b5-617fadc35e41",
+              "value": 60515,
+              "timestamp": 1575260412963
+            },
+            {
+              "id": "83c3d8b3-ec70-4102-9a1c-d5b0503ca896",
+              "value": 84200,
+              "timestamp": 1560982170758
+            },
+            {
+              "id": "8fc976ce-4447-49c8-9f51-4a39e07b2773",
+              "value": 52889,
+              "timestamp": 1571309316333
+            },
+            {
+              "id": "9fca704a-38ca-41b0-bf0c-6210935c5e87",
+              "value": 60011,
+              "timestamp": 1563620460797
+            }
+          ]
+        },
+        {
+          "id": "b5f3cfd4-15e6-4385-aaaa-1334d198df7e",
+          "name": "Alivia.Macejkovic4",
+          "data": [
+            {
+              "id": "2fa4e1b7-6115-4ebe-94bd-16982c35573d",
+              "value": 71361,
+              "timestamp": 1572826161217
+            },
+            {
+              "id": "85f52b40-eede-4c95-bfcb-4654ac072b13",
+              "value": 75055,
+              "timestamp": 1569999969227
+            },
+            {
+              "id": "e865df5a-c14d-46a0-93f0-f102f89193d4",
+              "value": 60870,
+              "timestamp": 1553786058987
+            },
+            {
+              "id": "e306229a-f565-4f10-92ef-36e64f3b289c",
+              "value": 6712,
+              "timestamp": 1560698801914
+            },
+            {
+              "id": "10f042e5-207f-4e90-b774-cfd16e59f12d",
+              "value": 35036,
+              "timestamp": 1563590134110
+            },
+            {
+              "id": "bd2f6de3-6c32-4fc5-bd42-b14d3cca2832",
+              "value": 89878,
+              "timestamp": 1579611818130
+            },
+            {
+              "id": "72bd855e-913c-4f41-b389-91488dac13e1",
+              "value": 74129,
+              "timestamp": 1556184711143
+            },
+            {
+              "id": "5dd712e3-67a7-4247-89e6-baee0b547f62",
+              "value": 72003,
+              "timestamp": 1552635314793
+            },
+            {
+              "id": "da28b917-0c67-4044-bf47-a85f0a684fef",
+              "value": 16266,
+              "timestamp": 1570854647477
+            },
+            {
+              "id": "7a97b972-a58c-4f9d-a631-c7d52a7bdfec",
+              "value": 9598,
+              "timestamp": 1562773281585
+            }
+          ]
+        },
+        {
+          "id": "a8fe9bc2-0e61-4b21-add4-a0a04daa1692",
+          "name": "Reilly_Will",
+          "data": [
+            {
+              "id": "c1904ea3-0514-44ab-98e0-fc06689b9d2b",
+              "value": 96341,
+              "timestamp": 1557746357341
+            },
+            {
+              "id": "b8d6fb04-da41-496a-b250-3a2a7492102a",
+              "value": 64668,
+              "timestamp": 1549385754652
+            },
+            {
+              "id": "36e7b3eb-b239-477f-808c-6db10a9d8c96",
+              "value": 18672,
+              "timestamp": 1572259251523
+            },
+            {
+              "id": "bb23e576-b9c5-49c0-8149-c8fcb025bc7d",
+              "value": 19401,
+              "timestamp": 1578191566177
+            },
+            {
+              "id": "833302f0-b5b1-44b4-a0d8-84d1e988f41d",
+              "value": 83755,
+              "timestamp": 1575612422505
+            },
+            {
+              "id": "1e9443f3-4fe8-4846-b91b-8c322cdc8425",
+              "value": 4633,
+              "timestamp": 1551634523736
+            },
+            {
+              "id": "95e2f216-3dc6-4663-83b7-9c76145e57fd",
+              "value": 35036,
+              "timestamp": 1569035500001
+            },
+            {
+              "id": "892219e0-56f0-4c9a-a0a7-42a332384e99",
+              "value": 47327,
+              "timestamp": 1566491111879
+            },
+            {
+              "id": "d716f45e-a204-411e-a8d0-2a4c5c428b98",
+              "value": 39308,
+              "timestamp": 1576265261901
+            },
+            {
+              "id": "046d407e-2706-4303-905f-0d4be1a4f6f3",
+              "value": 14298,
+              "timestamp": 1579870598913
+            }
+          ]
+        },
+        {
+          "id": "b20ad781-e4fa-4d48-9ce3-5dee6128504d",
+          "name": "Jarred19",
+          "data": [
+            {
+              "id": "681623b0-1420-464d-a6a7-229aa2886a32",
+              "value": 10784,
+              "timestamp": 1565688076845
+            },
+            {
+              "id": "62fe3148-491c-41ac-87ff-79a7467b6b36",
+              "value": 42926,
+              "timestamp": 1564458115477
+            },
+            {
+              "id": "9f7dc3ef-adef-464f-8406-eb36336aeaac",
+              "value": 37483,
+              "timestamp": 1570436074934
+            },
+            {
+              "id": "0934e8e1-7b8c-4c1a-8564-9130c0af2ab0",
+              "value": 67722,
+              "timestamp": 1562351349922
+            },
+            {
+              "id": "ba7b89d5-f2c2-494c-9761-1b390a082d91",
+              "value": 87307,
+              "timestamp": 1576503293638
+            },
+            {
+              "id": "4540b6d0-00ae-4267-94ab-616ad0fdeba2",
+              "value": 6941,
+              "timestamp": 1561238068490
+            },
+            {
+              "id": "c785d80c-9549-4f66-8e01-5a0c59314c43",
+              "value": 60574,
+              "timestamp": 1572223930069
+            },
+            {
+              "id": "d08b6b58-6bed-42d7-8cfa-a88abfa67734",
+              "value": 34221,
+              "timestamp": 1573997923003
+            },
+            {
+              "id": "13ca0ed6-c801-4001-9173-fc7698e8c45b",
+              "value": 24354,
+              "timestamp": 1574613085705
+            },
+            {
+              "id": "d38d022b-3a68-4b07-af0c-405dffc19149",
+              "value": 17812,
+              "timestamp": 1565301514863
+            }
+          ]
+        },
+        {
+          "id": "8e6f49db-38d1-4189-a167-fa2c29e90b67",
+          "name": "Leslie_Collier74",
+          "data": [
+            {
+              "id": "a49d04a5-461d-483e-b3c8-16bd3989ae68",
+              "value": 38532,
+              "timestamp": 1578037881698
+            },
+            {
+              "id": "d89b3955-03b5-438c-ac81-6eec9250bb58",
+              "value": 25078,
+              "timestamp": 1561159420304
+            },
+            {
+              "id": "2108b82c-5783-4b03-91cf-f29a6ab76df5",
+              "value": 65243,
+              "timestamp": 1564085021635
+            },
+            {
+              "id": "675f78db-7504-493d-a081-969acdf28640",
+              "value": 41124,
+              "timestamp": 1553947221401
+            },
+            {
+              "id": "e10b8961-5967-41f2-894e-05280913c43d",
+              "value": 77279,
+              "timestamp": 1549667443485
+            },
+            {
+              "id": "8d89ecad-a485-48da-b3f8-49450418826d",
+              "value": 58793,
+              "timestamp": 1579419967350
+            },
+            {
+              "id": "6b54ec64-80a5-4180-8967-d156967adf9f",
+              "value": 95043,
+              "timestamp": 1569328747742
+            },
+            {
+              "id": "9ba85dad-1160-4381-9b1a-b75cf486eba4",
+              "value": 35619,
+              "timestamp": 1575856770815
+            },
+            {
+              "id": "7e6c497f-ef82-4357-8879-3cfcf303fec5",
+              "value": 62086,
+              "timestamp": 1574018874447
+            },
+            {
+              "id": "c1a9574c-aef3-4b3a-8336-f0c5a5e21ae9",
+              "value": 7356,
+              "timestamp": 1557649944192
+            }
+          ]
+        },
+        {
+          "id": "635d0919-7642-4f58-9321-80361de71f33",
+          "name": "Gilbert.Bahringer",
+          "data": [
+            {
+              "id": "7de95b43-3c2a-4ae1-a9cc-61cb1ec7c928",
+              "value": 43757,
+              "timestamp": 1562057768808
+            },
+            {
+              "id": "7aad90c0-0230-4fbe-ad2f-8b00ab802925",
+              "value": 35433,
+              "timestamp": 1564730333533
+            },
+            {
+              "id": "46461a10-0b03-4d54-8612-97e970ad4635",
+              "value": 26716,
+              "timestamp": 1571517129092
+            },
+            {
+              "id": "1bc47273-ff41-45d2-ba2b-1cb3cc7622f8",
+              "value": 57445,
+              "timestamp": 1566554530831
+            },
+            {
+              "id": "4e9dff0b-9fd1-4711-94e6-561349f47a82",
+              "value": 36875,
+              "timestamp": 1548719853087
+            },
+            {
+              "id": "cd5322a9-1683-42b8-8fa3-8f24aecdaf39",
+              "value": 61641,
+              "timestamp": 1568615342725
+            },
+            {
+              "id": "dfb6ece9-8818-4797-88f9-19335b1df000",
+              "value": 60156,
+              "timestamp": 1553423966183
+            },
+            {
+              "id": "05eaeb22-bbba-4e32-a1d0-500ac53c3269",
+              "value": 45632,
+              "timestamp": 1559228886766
+            },
+            {
+              "id": "5f90a7c6-d634-40fd-90be-1a685d7b7e37",
+              "value": 15178,
+              "timestamp": 1550885825298
+            },
+            {
+              "id": "09fd8f66-a6a1-4bcf-a891-57948ef7fa4a",
+              "value": 50405,
+              "timestamp": 1568550867783
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2e8aa09-97e6-44fd-8647-9359a5162e29",
+      "name": "Jairo_Mante60",
+      "lastKnownPosition": {
+        "latitude": 50.4249879,
+        "longitude": 30.531965
+      },
+      "sensors": [
+        {
+          "id": "ce3290a5-ab07-4886-9ed5-25d2b538b995",
+          "name": "Tyrese.Huels",
+          "data": [
+            {
+              "id": "d2637a62-a449-4a76-bd38-ed6df326b158",
+              "value": 83904,
+              "timestamp": 1558764896136
+            },
+            {
+              "id": "f014da85-4da2-4d4a-bffb-a4c116ff8ef9",
+              "value": 15941,
+              "timestamp": 1558489439312
+            },
+            {
+              "id": "a27528dd-b630-4dc0-98f1-d8f4aa15d1d3",
+              "value": 22088,
+              "timestamp": 1570194127404
+            },
+            {
+              "id": "010c86a3-a61d-437e-b872-029a90e9bda0",
+              "value": 41890,
+              "timestamp": 1551195393979
+            },
+            {
+              "id": "394bd3c3-63e2-4730-acce-dd0024f6933a",
+              "value": 36734,
+              "timestamp": 1573551588937
+            },
+            {
+              "id": "62233133-c0e2-467b-beec-ff96cb6c80e2",
+              "value": 35395,
+              "timestamp": 1568635896173
+            },
+            {
+              "id": "e278a672-23a9-4738-b4bf-ae77082178ff",
+              "value": 96886,
+              "timestamp": 1568454879233
+            },
+            {
+              "id": "47a272a2-337a-4ae3-85fd-3fbe11fe58ce",
+              "value": 27322,
+              "timestamp": 1560883153789
+            },
+            {
+              "id": "d92bd684-a773-40f6-a94a-e3a7747fdd97",
+              "value": 93827,
+              "timestamp": 1557534984006
+            },
+            {
+              "id": "d0e1712d-6e9e-4bdc-9b29-34125991ce08",
+              "value": 86201,
+              "timestamp": 1564466781049
+            }
+          ]
+        },
+        {
+          "id": "68390509-26bb-49ad-8c93-b720c131f9be",
+          "name": "Rylee29",
+          "data": [
+            {
+              "id": "b1679d8f-24d0-4fa9-a340-706e8536b358",
+              "value": 78249,
+              "timestamp": 1571459773080
+            },
+            {
+              "id": "068c5850-0a38-438f-a9bb-46676155fc85",
+              "value": 82089,
+              "timestamp": 1578391372733
+            },
+            {
+              "id": "622005f6-83d2-4cf7-a2ff-bb07616c67c3",
+              "value": 68207,
+              "timestamp": 1579306342288
+            },
+            {
+              "id": "db55bd56-5c95-4e92-9c6e-33198555d8ef",
+              "value": 67927,
+              "timestamp": 1557709696724
+            },
+            {
+              "id": "84708da4-196e-4a40-a9b5-f097aebd591f",
+              "value": 84737,
+              "timestamp": 1557758541997
+            },
+            {
+              "id": "04107526-20a2-4e59-9495-9693ac089c6a",
+              "value": 66433,
+              "timestamp": 1550263535046
+            },
+            {
+              "id": "fea08223-2369-4647-b26c-1a809cd9f229",
+              "value": 93514,
+              "timestamp": 1575271862051
+            },
+            {
+              "id": "5509a64f-d2cd-424f-a2e8-c7c9098e2e33",
+              "value": 15303,
+              "timestamp": 1556146711467
+            },
+            {
+              "id": "20cb3207-16fc-4cff-990b-ad67e5e67b41",
+              "value": 15915,
+              "timestamp": 1572062648603
+            },
+            {
+              "id": "d224295c-c9c1-4375-b97a-d04461fbf638",
+              "value": 81651,
+              "timestamp": 1559997067552
+            }
+          ]
+        },
+        {
+          "id": "3e543bda-bf2b-449d-9d2d-cd460e44d7dc",
+          "name": "Jermey.Nolan1",
+          "data": [
+            {
+              "id": "0908c25b-7f62-45f0-98fa-357b15c32226",
+              "value": 4069,
+              "timestamp": 1552467878555
+            },
+            {
+              "id": "c05bc0bb-38e9-4bc7-9ec4-d40bcc1fdee8",
+              "value": 19256,
+              "timestamp": 1549976255796
+            },
+            {
+              "id": "7a0b52e2-ae32-459c-9144-903595f2b635",
+              "value": 3846,
+              "timestamp": 1565528660599
+            },
+            {
+              "id": "4137c62b-43f9-47db-97a7-179ab8c82192",
+              "value": 38272,
+              "timestamp": 1566667781335
+            },
+            {
+              "id": "8aca93ee-4902-4592-a1e3-83be1582be46",
+              "value": 86341,
+              "timestamp": 1564797430197
+            },
+            {
+              "id": "ab25a3b1-5674-431a-ab1d-5e265c0dc452",
+              "value": 66394,
+              "timestamp": 1580024384485
+            },
+            {
+              "id": "178c5eee-7020-4612-bde9-8ab76e8a3c9a",
+              "value": 22244,
+              "timestamp": 1562764125635
+            },
+            {
+              "id": "02212702-236b-4433-95f0-c6fc4bd7ab48",
+              "value": 59344,
+              "timestamp": 1560724755271
+            },
+            {
+              "id": "68a55d1e-79a4-499a-ab26-838c596d9e45",
+              "value": 35134,
+              "timestamp": 1579077092568
+            },
+            {
+              "id": "ebd89e76-65e0-4362-ab9f-4f1a3b7be62a",
+              "value": 24873,
+              "timestamp": 1568347482251
+            }
+          ]
+        },
+        {
+          "id": "8ba19b7f-36d9-430a-b1c3-72d5ac08be92",
+          "name": "Doyle43",
+          "data": [
+            {
+              "id": "498cb44c-d72b-446b-b578-d4973cbc276f",
+              "value": 5207,
+              "timestamp": 1554710524057
+            },
+            {
+              "id": "385dae6b-3bcc-41a1-9305-75012bede99f",
+              "value": 76961,
+              "timestamp": 1565603026175
+            },
+            {
+              "id": "c05402e7-6c12-4173-a228-310efc9ab2da",
+              "value": 23736,
+              "timestamp": 1555809577039
+            },
+            {
+              "id": "235cea0d-8679-4403-aa44-33d4d3ff34f9",
+              "value": 8926,
+              "timestamp": 1555020136995
+            },
+            {
+              "id": "9fabaf75-e64f-46c2-b228-f9a6a1239eff",
+              "value": 70349,
+              "timestamp": 1574226794755
+            },
+            {
+              "id": "7ce65641-3354-4c88-8466-0ee6ef269c97",
+              "value": 63114,
+              "timestamp": 1566672407378
+            },
+            {
+              "id": "79aac1c4-8447-447a-ad26-e7dbc52f7136",
+              "value": 63780,
+              "timestamp": 1549042902511
+            },
+            {
+              "id": "8937f223-550d-4491-9037-a166af5eba9f",
+              "value": 60544,
+              "timestamp": 1560041656655
+            },
+            {
+              "id": "0b344cd0-4e25-408f-93b5-f54ee3ae9561",
+              "value": 51528,
+              "timestamp": 1549301752050
+            },
+            {
+              "id": "4acb2d19-6f31-4bbd-a8da-8b247e17b4f8",
+              "value": 73,
+              "timestamp": 1558506816503
+            }
+          ]
+        },
+        {
+          "id": "009c56ae-c379-461b-b237-55c6090c60a1",
+          "name": "Brian59",
+          "data": [
+            {
+              "id": "4a9a84ce-ddee-455d-8ea1-d7baf0be9c1e",
+              "value": 53825,
+              "timestamp": 1565387877977
+            },
+            {
+              "id": "3731cc3a-9121-4be7-b11a-56d3d668fc21",
+              "value": 12294,
+              "timestamp": 1557890839844
+            },
+            {
+              "id": "08c75006-2002-433c-93b4-ce7bf34cf769",
+              "value": 36927,
+              "timestamp": 1550355946504
+            },
+            {
+              "id": "97642c80-8938-447e-8b84-38e96654f6e3",
+              "value": 71371,
+              "timestamp": 1551081302237
+            },
+            {
+              "id": "cfde91d9-48b0-4634-9d4e-aa917e14d2d9",
+              "value": 69425,
+              "timestamp": 1573435355947
+            },
+            {
+              "id": "2ea7f881-8e2a-44f9-af3a-cddb817d267d",
+              "value": 97566,
+              "timestamp": 1553258691521
+            },
+            {
+              "id": "387475bf-ea10-4f0b-8643-f7a184332db5",
+              "value": 47475,
+              "timestamp": 1559514656775
+            },
+            {
+              "id": "d8e7b338-d665-4fe3-9a83-07b85166f4fa",
+              "value": 55596,
+              "timestamp": 1573918532322
+            },
+            {
+              "id": "3a3a228e-e00f-4a35-b220-89013cdd3450",
+              "value": 58125,
+              "timestamp": 1559474946239
+            },
+            {
+              "id": "0962c41b-b1aa-4264-acff-48ac98a924bd",
+              "value": 13716,
+              "timestamp": 1563039231769
+            }
+          ]
+        },
+        {
+          "id": "9c2837f0-5033-4647-984a-19d4b4229de4",
+          "name": "Darrion92",
+          "data": [
+            {
+              "id": "9987dfc6-6831-4149-be52-7ac57003f484",
+              "value": 53078,
+              "timestamp": 1578546494527
+            },
+            {
+              "id": "ea137b24-2e26-483b-9b23-5fd211a29963",
+              "value": 19474,
+              "timestamp": 1568662417773
+            },
+            {
+              "id": "e78daac2-916f-4ad0-a892-82b1c4e4c9df",
+              "value": 13824,
+              "timestamp": 1569496430073
+            },
+            {
+              "id": "331bab4f-976a-429d-8dcb-5bb0e3a38edf",
+              "value": 66557,
+              "timestamp": 1556320789566
+            },
+            {
+              "id": "f0819408-2ab2-49ac-ae58-72a251a1750b",
+              "value": 62506,
+              "timestamp": 1561432009663
+            },
+            {
+              "id": "a13ed22e-d8a2-4dd5-9868-a88820d98274",
+              "value": 24949,
+              "timestamp": 1575225011356
+            },
+            {
+              "id": "84379e1c-534f-4acc-bba4-5a584160867f",
+              "value": 24996,
+              "timestamp": 1569644513605
+            },
+            {
+              "id": "a8f02a17-017f-4c87-af50-d84f8c2b0071",
+              "value": 26118,
+              "timestamp": 1566788172883
+            },
+            {
+              "id": "8043ecc6-ae2f-4f95-8c47-d83b32d8208c",
+              "value": 53131,
+              "timestamp": 1556679759865
+            },
+            {
+              "id": "6cbe51de-4666-41ba-b58d-27166d0756c8",
+              "value": 45424,
+              "timestamp": 1555266399083
+            }
+          ]
+        },
+        {
+          "id": "201b5097-1b04-48e0-a9a5-b3907958d257",
+          "name": "Freda37",
+          "data": [
+            {
+              "id": "1c55e125-1df4-4924-ae88-6a484b2de9a6",
+              "value": 54997,
+              "timestamp": 1559562160711
+            },
+            {
+              "id": "53a8d81a-b37f-40f6-a025-3b387025b172",
+              "value": 78940,
+              "timestamp": 1569820848270
+            },
+            {
+              "id": "2b384227-6247-4c2b-b076-199a226d4779",
+              "value": 74891,
+              "timestamp": 1551825367749
+            },
+            {
+              "id": "1a58d8c9-e10c-4b66-809b-cb88655fade2",
+              "value": 93858,
+              "timestamp": 1552809779178
+            },
+            {
+              "id": "956418ca-94b8-4f2f-8024-f7b906952a9f",
+              "value": 37044,
+              "timestamp": 1554236702400
+            },
+            {
+              "id": "71e8d098-52cb-4567-82bc-074ec45258c6",
+              "value": 39874,
+              "timestamp": 1552564064347
+            },
+            {
+              "id": "e7ba6873-24db-4cdf-909c-3a9481890fbb",
+              "value": 10271,
+              "timestamp": 1555087661540
+            },
+            {
+              "id": "3f2fed00-9776-4229-99f6-d348e8b75828",
+              "value": 90481,
+              "timestamp": 1548703667020
+            },
+            {
+              "id": "033a3296-4ab2-412a-9626-6f3ed62954be",
+              "value": 46422,
+              "timestamp": 1568155178051
+            },
+            {
+              "id": "5a62186b-6332-482f-bbbc-493e96aaf4ce",
+              "value": 56363,
+              "timestamp": 1556733684176
+            }
+          ]
+        },
+        {
+          "id": "1f0c0dc8-3a1a-435d-b071-e4b60f6ea4d8",
+          "name": "Kirsten.Daniel",
+          "data": [
+            {
+              "id": "cd73a59c-5840-4310-9845-3a65dada98fd",
+              "value": 48796,
+              "timestamp": 1577773365827
+            },
+            {
+              "id": "2786d68d-f75b-424a-8fe8-ecd17964bae4",
+              "value": 60503,
+              "timestamp": 1564429623662
+            },
+            {
+              "id": "40515a6a-b00c-41b2-a7c4-0eceeee9eb5e",
+              "value": 90684,
+              "timestamp": 1561509262971
+            },
+            {
+              "id": "b0204946-4718-40fc-be89-76021bca9f86",
+              "value": 43965,
+              "timestamp": 1574451517011
+            },
+            {
+              "id": "f24b6bea-6baf-474f-9740-4f32a0d4894d",
+              "value": 93263,
+              "timestamp": 1570265175905
+            },
+            {
+              "id": "7a2b5bbf-1242-4e78-ad07-aae07346c366",
+              "value": 5427,
+              "timestamp": 1555114143156
+            },
+            {
+              "id": "9e8e3ee3-f315-41d9-b5e1-1b454d6cf677",
+              "value": 19862,
+              "timestamp": 1569217894013
+            },
+            {
+              "id": "14220e4c-65fd-4ebe-9d8f-9af979de2e80",
+              "value": 45777,
+              "timestamp": 1554825112033
+            },
+            {
+              "id": "b59cf0e9-7be1-4566-8ded-8881409f39c4",
+              "value": 66730,
+              "timestamp": 1571688583032
+            },
+            {
+              "id": "e0de54ba-9e80-4ecb-9b47-068eebe2ac36",
+              "value": 16956,
+              "timestamp": 1549975448387
+            }
+          ]
+        },
+        {
+          "id": "bde45786-311d-4959-91d5-b702e276cef6",
+          "name": "Brenna19",
+          "data": [
+            {
+              "id": "1834f890-219b-494e-b9c9-ea43b1c4a333",
+              "value": 36697,
+              "timestamp": 1551601138856
+            },
+            {
+              "id": "6b79bb2e-a5be-4f39-add2-d54d131d742c",
+              "value": 65994,
+              "timestamp": 1549423852874
+            },
+            {
+              "id": "3a784761-788f-4bcc-8932-27151c957345",
+              "value": 70231,
+              "timestamp": 1551158467053
+            },
+            {
+              "id": "7a90a345-3457-4ce1-acb3-ae0367dae9b1",
+              "value": 38295,
+              "timestamp": 1567897658175
+            },
+            {
+              "id": "8327d289-f37a-4c10-9eaa-9669e8e6cc7b",
+              "value": 79447,
+              "timestamp": 1574712856967
+            },
+            {
+              "id": "e3dbdea5-038f-4748-8fae-4707c2e9e3ef",
+              "value": 75514,
+              "timestamp": 1554296119826
+            },
+            {
+              "id": "640e72f8-83b8-4c03-843a-0c86eb1cb518",
+              "value": 48472,
+              "timestamp": 1552007555841
+            },
+            {
+              "id": "54cd2d86-3d35-48c0-bfa3-1454b4e5e368",
+              "value": 77277,
+              "timestamp": 1572202176143
+            },
+            {
+              "id": "579637a8-f0b7-47a2-9a44-e702670ab18e",
+              "value": 32156,
+              "timestamp": 1574778314789
+            },
+            {
+              "id": "5788822a-692c-45de-b924-a6ec5c8dcfeb",
+              "value": 76591,
+              "timestamp": 1551002604952
+            }
+          ]
+        },
+        {
+          "id": "a249ac3b-121a-44e2-82ae-0b267edffb69",
+          "name": "Edwina.Ortiz",
+          "data": [
+            {
+              "id": "4029fbe0-0f2c-474e-8445-cbc772172898",
+              "value": 84824,
+              "timestamp": 1561545037278
+            },
+            {
+              "id": "7d200a1c-c789-4c64-a917-66d226750e73",
+              "value": 74612,
+              "timestamp": 1552462378854
+            },
+            {
+              "id": "418a02f9-1945-4bc6-af7d-48c3862182ee",
+              "value": 14409,
+              "timestamp": 1549495110251
+            },
+            {
+              "id": "9286a7ea-11ef-411b-8053-db9ede669a3a",
+              "value": 62281,
+              "timestamp": 1567745743911
+            },
+            {
+              "id": "49ea7d55-7741-4fb1-9ea4-7171dc3b29b5",
+              "value": 7580,
+              "timestamp": 1557784834386
+            },
+            {
+              "id": "977d6c59-c702-4d3e-b207-ce8bf8bc28a2",
+              "value": 28667,
+              "timestamp": 1554866311102
+            },
+            {
+              "id": "f31af5d7-dd6e-4316-b8db-6b527c18e2e4",
+              "value": 2414,
+              "timestamp": 1576884540233
+            },
+            {
+              "id": "b4598670-6227-4fbc-a5fb-4a874abb742d",
+              "value": 20463,
+              "timestamp": 1570893901239
+            },
+            {
+              "id": "0d654660-15b0-4e06-ae74-b6bc8be31556",
+              "value": 78713,
+              "timestamp": 1564014286804
+            },
+            {
+              "id": "62350d44-3027-4f2b-91eb-63358f9456b5",
+              "value": 31722,
+              "timestamp": 1570292286425
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

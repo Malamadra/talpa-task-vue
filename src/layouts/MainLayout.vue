@@ -21,13 +21,14 @@ export default {
 }
 </script>
 
-<style scoped>
-.main-layout-wrapper {
+<style lang="scss" scoped>
+  @import '~vue-material/dist/theme/engine';
+  .main-layout-wrapper {
   min-width: 300px;
 }
 
 .content-wrapper {
-  background: grey;
+  background: md-get-palette-color(grey, 200);
   min-height: calc(100vh - 65px);
 }
 </style>

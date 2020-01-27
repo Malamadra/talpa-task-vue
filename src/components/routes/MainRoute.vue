@@ -1,15 +1,17 @@
 <template>
   <MainLayout>
-    main layout!
+    <Machines />
   </MainLayout>
 </template>
 
 <script>
 import MainLayout from '@/layouts/MainLayout'
+import Machines from '@/components/Machines'
 
 export default {
   components: {
-    MainLayout
+    MainLayout,
+    Machines
   }
 }
 </script>
