@@ -18,9 +18,11 @@ export default {
 }
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
+@import '~vue-material/dist/theme/engine';
+
 .wrapper {
-  background: blue;
+  background: md-get-palette-color(blue, 300);
 }
 
 .content {

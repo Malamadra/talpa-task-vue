@@ -1,9 +1,11 @@
 <template>
   <div class="content">
-    <div
-      class="md-layout-item md-medium-size-33 md-small-size-50 md-xsmall-size-100"
-    >
-      <div v-for="machine in machines" :key="machine.id" class="md-layout-item">
+    <div class="md-layout md-gutter">
+      <div
+        v-for="machine in machines"
+        :key="machine.id"
+        class="md-layout-item md-large-size-33 md-xlarge-size-33 md-medium-size-50 md-xsmall-size-100"
+      >
         <md-card>
           {{ machine.name }}
         </md-card>
