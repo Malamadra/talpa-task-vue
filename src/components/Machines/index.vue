@@ -26,7 +26,9 @@
             >
               Remove
             </md-button>
-            <md-button class="md-primary">Details</md-button>
+            <router-link :to="`single-machine/${machine.id}`">
+              <md-button class="md-primary">Details</md-button>
+            </router-link>
           </md-card-actions>
         </md-card>
       </div>

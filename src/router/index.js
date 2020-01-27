@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import MainRoute from '../components/routes/MainRoute'
+import SingleMachineRoute from '../components/routes/SingleMachineRoute'
 
 Vue.use(VueRouter)
 
@@ -11,13 +12,10 @@ const routes = [
     component: MainRoute
   },
   {
-    path: '/about',
+    path: '/single-machine/:id',
     name: 'about',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () =>
-      import(/* webpackChunkName: "about" */ '../views/About.vue')
+    component: SingleMachineRoute,
+    props: true
   }
 ]
 
